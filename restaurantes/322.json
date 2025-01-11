@@ -1,0 +1,179 @@
+{
+    "ID": 322,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "51260311",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13389533564469,
+                "lng": -82.37685653415737
+            }
+        }
+    },
+    "name": "Doping pizza",
+    "type_cuisine": [
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.3,
+        "qualification_tripadvisor": 3.1,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ensalada fria natural",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "ensalada fria de jamon",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "ensalada fria de atun",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza de atun",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza de bacon",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza doping extreme",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napoles",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "paletica de helado clasica",
+                "price": 150,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado (12oz)",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado (16oz)",
+                "price": 750.0,
+                "description": []
+            }
+        ]
+    }
+}

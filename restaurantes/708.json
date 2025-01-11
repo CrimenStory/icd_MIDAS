@@ -1,0 +1,214 @@
+{
+    "ID": 708,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.072260531147528,
+                "lng": -82.22660851736715
+            }
+        }
+    },
+    "name": "El Pellizco",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.6,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ración de chicharrón",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "ración de empella",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "caldoza de la casa",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "ración de tostones",
+                "price": 80,
+                "description": []
+            },
+            {
+                "item": "ración de mariquitas",
+                "price": 80,
+                "description": []
+            },
+            {
+                "item": "plátano maduro frito",
+                "price": 80,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de hígado",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "hígado a la italiana",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "lonjas de cerdo asada",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pollo asado",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "costilla asada",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de cerdo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "fricase de costilla",
+                "price": 650,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 220.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo de caja",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "jugo de botella",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 220.0,
+                "description": []
+            }
+        ]
+    }
+}

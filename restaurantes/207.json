@@ -1,0 +1,343 @@
+{
+    "ID": 207,
+    "locality": {
+        "mun": "Boyeros",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.05191156648548,
+                "lng": -82.38229337842735
+            }
+        }
+    },
+    "name": "The Place",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga con miel",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "garbanzo frito",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "sopon imperial",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "picadera the place",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pechuga de pollo grille",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "costilla de cerdo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "chilindron de cordero",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "ropa vieja a la criolla",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec de res",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "chuleton",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pescado al plato",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "canciller",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "langosta en sus variedades",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "camaron",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "jarra de cerveza cristal",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "termo de cerveza cristal",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cerveza heniken",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "caipirisima",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 520,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "red label",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "old parr",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "jameson",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tequila",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "tequila reposado",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "seleccion de maestro",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "pacto navio",
+                "price": 1150,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "malta bucanero",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 290,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 330,
+                "description": []
+            },
+            {
+                "item": "jugos",
+                "price": 260,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 600,
+                "description": []
+            }
+        ]
+    }
+}

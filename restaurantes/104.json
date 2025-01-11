@@ -1,0 +1,138 @@
+{
+    "ID": 104,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": "63712913",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.004387110083822,
+                "lng": -82.32730012513493
+            }
+        }
+    },
+    "name": "El Vaquerito",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "bolitas de carne",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "chicharron",
+                "price": 280,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz moro, cerdo asado, yuca con mojo, ensalada",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "arroz moro, pollo asado, yuca con mojo, ensalada",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "ropa vieja, yuca, ensalada",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "enchilado de camaron, arroz moro, yuca, ensalada",
+                "price": 560,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza de lata",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "cubetazo",
+                "price": 4500.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "ID": 907,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": "52667604",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.139161565291754,
+                "lng": -82.35008076299259
+            }
+        }
+    },
+    "name": "La Torre De Marfil",
+    "type_cuisine": [
+        "china",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "guarderia"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "la torre de marfil",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "bruschettas",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "ensalada de vegetales",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "ensalada de verduras y pollo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "coctel de langosta",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "maripositas chinas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "vegetales salteados",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pulpo al pimenton",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "shop suey de marisco",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "sopa estilo oriental",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "croquetas de la casa",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga con miel y mostaza",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "crema de calabaza y malanga",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "tacos de vegetales",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "tacos de ropa vieja",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo al estilo torre de marfil",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "pollo grille",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "cerdo al estilo torre de marfil",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "cerdo asado con salsa de mostaza y romero",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "combinacion marinera a la baracoesa",
+                "price": 2550,
+                "description": []
+            },
+            {
+                "item": "pescado grille",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "grillada del mar",
+                "price": 5800,
+                "description": []
+            },
+            {
+                "item": "grillada de mar y tierra",
+                "price": 8500,
+                "description": []
+            },
+            {
+                "item": "grillada de carne",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "langosta al gusto",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "camarones al gusto",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "cazuelita caribena con frutos del mar",
+                "price": 4300,
+                "description": []
+            },
+            {
+                "item": "estofado de res con zanahorias confitadas",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "arroz frito al estilo de la casa",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "arroz caldoso de la tierra",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "arroz caldoso marinero",
+                "price": 2850,
+                "description": []
+            },
+            {
+                "item": "arroz caldoso mar y tierra",
+                "price": 3850,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pizza especial de la casa",
+                "price": 2100,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pastas cortas rigatoni frutti di mare",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "spaghetti con salsa napoles",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "spaghetti a la bolognesa",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "spaghetti con vegetales",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "spaghetti al alioli con camarones",
+                "price": 1750,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado con frutas confitadas",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tarta semifria",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "brownie con helado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "mixto cubano",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "postres caseros",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "boniatillo con coco estilo omara portuondo",
+                "price": 650,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

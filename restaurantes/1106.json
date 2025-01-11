@@ -1,0 +1,135 @@
+{
+    "ID": 1106,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": "52014975",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.089740127860885,
+                "lng": -82.421562507278
+            }
+        }
+    },
+    "name": "Ranchon de 41",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": 4.8
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de la casa",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "coctel de camaron",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "picadera el toro bravo",
+                "price": 1700,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo chiflado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 750,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso blanco",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 680,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "suero de helado",
+                "price": 400.0,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "ID": 901,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78602916"
+            },
+            "map": {
+                "lat": 23.136167028292387,
+                "lng": -82.35497380716978
+            }
+        }
+    },
+    "name": "Teniente Rey 360",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.6,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": 4.6
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo",
+        "enzona",
+        "zelle"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pechugas de pollo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga de pollo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "picadillo a la cubana",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "frícase de cerdo",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "solomillo",
+                "price": 1900,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "mixta",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "carbonara",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "napolitana",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "camaron o langosta o pulpo",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "flan",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "torrejas",
+                "price": 400,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional lata",
+                "price": 360.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional botella",
+                "price": 460.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 460.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refrescos nacionales",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "refrescos importados",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "malta nacional",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "agua natural nacional",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "agua tonica",
+                "price": 450.0,
+                "description": []
+            }
+        ]
+    }
+}

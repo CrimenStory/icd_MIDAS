@@ -1,0 +1,332 @@
+{
+    "ID": 701,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": "52411618",
+                "landline": "77974262"
+            },
+            "map": {
+                "lat": 23.12218548403461,
+                "lng": -82.30787987833503
+            }
+        }
+    },
+    "name": "Polo",
+    "type_cuisine": [
+        "pizzas",
+        "criolla",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "whatsapp",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "toston relleno de jamón y queso",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "toston relleno de atún y queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "ensaladas frías de jamón",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de atún",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "eperlano de pescado",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "croquetas de la casa",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "frituras malanga",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "coctel camarones",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz pilaf",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "arroz salteado con vegetales",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille encebollado",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "uruguallo de cerdo",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "bistec princesa",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pechuga grille",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "pechuga gratinada",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "cordon bleu de pechuga",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "bistec de res encebollado",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "uruguallo de res",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de res",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grille",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "filete montero",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "filete canciller",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "filete gratinado",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "camaron al ajillo",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "camaron empanizado",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "arroz frito con camarones",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "filete mediterraneo",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "mar y tierra",
+                "price": 4500,
+                "description": []
+            },
+            {
+                "item": "masa de vida",
+                "price": 4100,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1300,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaguetti napolitano",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "spaguetti carbonara",
+                "price": 1400,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 250.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "energizante",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 500ml",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "refresco nacional",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refrescos importados",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "malta nacional",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "malta importada",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "jugo de caja",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "jugo de lata",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "cafe expreso",
+                "price": 250.0,
+                "description": []
+            }
+        ]
+    }
+}

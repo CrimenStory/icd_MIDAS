@@ -1,0 +1,335 @@
+{
+    "ID": 624,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "59104644",
+                "landline": "76404105"
+            },
+            "map": {
+                "lat": 23.10000620967027,
+                "lng": -82.37924533558211
+            }
+        }
+    },
+    "name": "La Esquinita",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera la esquinita",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 400,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz frito",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "arroz frito con mariscos",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bistec gordon blue",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "hamburguesa sencilla",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de jamon",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de queso gouda",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de chorizo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de jamon y gouda",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "hamburguesa la esquinita",
+                "price": 750,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso blanco",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco y jamon",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda y jamon",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco y chorizo",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda y chorizo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco y atun",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda y atun",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco y cebolla",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda y cebolla",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco y pimiento",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda y pimiento",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco hawaiana",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda hawaiana",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza especial la esquinita",
+                "price": 600,
+                " description": null
+            },
+            {
+                "item": "pizza de queso blanco",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco y jamon",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda y jamon",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco y chorizo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda y chorizo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco y atun",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda y atun",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco y cebolla",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda y cebolla",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco y pimiento",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda y pimiento",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso blanco hawaiana",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pizza grande de queso gouda hawaiana",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza grande especial la esquinita",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pizza grande familiar la esquinita",
+                "price": 3000,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaghettis blancos",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "espaghettis de queso gouda",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "espaghettis blancos de jamon",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "espaghettis de queso gouda con jamon",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "espaghettis blancos con chorizo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "espaghettis de queso gouda con chorizo",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

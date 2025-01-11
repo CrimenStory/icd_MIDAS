@@ -1,0 +1,155 @@
+{
+    "ID": 1322,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.127810894630507,
+                "lng": -82.39959798623943
+            }
+        }
+    },
+    "name": "La Pelota",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "tuesday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "wednesday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "thursday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "friday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "saturday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        },
+        "sunday": {
+            "opening": "09:45",
+            "closing": "21:45"
+        }
+    },
+    "quality": {
+        "qualification_google": 2.3,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "chicharrón 58g",
+                "price": 120,
+                "description": []
+            },
+            {
+                "item": "croqueta 36g",
+                "price": 15,
+                "description": []
+            },
+            {
+                "item": "entrante de jamón",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de cerdo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "costilla de cerdo frito",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pollo grillé",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pollo asado",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "picadillo",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "energizante",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "refresco de cola",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "jugo de frutas",
+                "price": 180,
+                "description": []
+            }
+        ]
+    }
+}

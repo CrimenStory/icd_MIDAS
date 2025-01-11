@@ -1,0 +1,275 @@
+{
+    "ID": 1201,
+    "locality": {
+        "mun": "Playa",
+        "locator": {
+            "phones": {
+                "mobile": "53826366",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.10836341952027,
+                "lng": -82.43424715134823
+            }
+        }
+    },
+    "name": "FoodMaster",
+    "type_cuisine": [
+        "mexicana",
+        "cafe",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:30",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:30",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:30",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:30",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:30",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:30",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "10:30",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.8,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera food master",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "salchichas al grill",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "quesadilla",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "tacos",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "empanadas",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 690,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "big master burger",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "suiza",
+                "price": 2950,
+                "description": []
+            },
+            {
+                "item": "max",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "la granja",
+                "price": 2550,
+                "description": []
+            },
+            {
+                "item": "italiana",
+                "price": 2450,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "margarita",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "margarita con jamón",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "diavola",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "de jamón serrano",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "de atún",
+                "price": 3100,
+                "description": []
+            },
+            {
+                "item": "la prohibida en italia",
+                "price": 3200,
+                "description": []
+            }
+        ],
+        "pasta": null,
+        "desserts": [
+            {
+                "item": "empanadas de pina y queso",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "muffin",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "helado",
+                "price": 750,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "vino por copa",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "gin & tonic",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "sangria blanca",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "tinto de verano",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "spirit cóctel",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "cerveza",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "cerveza gama alta",
+                "price": 800.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo natural",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "jugo cajita",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado y frutas",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "smoothie de frutas",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "fresh de pepino",
+                "price": 300.0,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,325 @@
+{
+    "ID": 105,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": "50766999",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.04726944912177,
+                "lng": -82.3630574258128
+            }
+        }
+    },
+    "name": "qué chévere",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "croquetas de chorizo",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "croquetas de pollo",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "masa frita",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "masas glasé",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo gratinado",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grillé",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "fricase de cerdo",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "lonjas ahumadas",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grillé",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "filete de pescado gratinado",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec de pechuga grille",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bistec de pechuga gratinado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pollo bola 8",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bistec de res",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal (lata)",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal blanca (lata)",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero (lata)",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "cerveza beer 69",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza 3 caballo",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza hoshter",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza chacal",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza la fría",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza vitaisberg",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza holandia",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "cerveza estrella galicia",
+                "price": 190,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "ciego montero",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "limón",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "cola",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "naranja",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "piña",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "7up",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "pepsi",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "malta bucanero",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "energizante evolution",
+                "price": 230,
+                "description": []
+            },
+            {
+                "item": "kerns pera",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "kerns manzana",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "kerns melocotón",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "jugo de cajita",
+                "price": 200,
+                "description": []
+            }
+        ]
+    }
+}

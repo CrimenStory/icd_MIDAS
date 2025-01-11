@@ -1,0 +1,335 @@
+{
+    "ID": 1305,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": "5510909",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.138392393516753,
+                "lng": -82.37023852767982
+            }
+        }
+    },
+    "name": "Doña Lis Pizza",
+    "type_cuisine": [
+        "pizzas",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "whatsapp",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso/jamón",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "bolitas de pescado",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "frituras malanga",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "nachos",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "ración yuca/mojo",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "don hamburgueso/vianda frita",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa doña lis/vianda frita",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "cheeseburger/vianda frita",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "sándwich atún/vianda frita",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "sándwich jamón y queso/vianda frita",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "sándwich pollo y vegetales/vianda frita",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tacos al pastor",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "tacos cerdo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "tacos pollo/vegetales",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "tacos de pescado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pechuga grillé",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pechuga empanada",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fajitas salteadas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo gratinado",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grillé",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza margarita",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza doña lis",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pasta napolitana",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pasta vegetariana",
+                "price": 650,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasaña",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "pote de helado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "paleta de helado",
+                "price": 200,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "servicio michelada",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "servicio chelada",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "cerveza de botella",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 280.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo natural",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "batido de fruta",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "batido de trigo",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "limonada frappé",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "agua",
+                "price": 180.0,
+                "description": []
+            }
+        ]
+    }
+}

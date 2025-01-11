@@ -1,0 +1,310 @@
+{
+    "ID": 508,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": "59770018",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.052069154835742,
+                "lng": -82.27571196298325
+            }
+        }
+    },
+    "name": "McCesar's",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.1,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "parqueo",
+        "guarderia"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "dados jamo-queso",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "ensalada fria",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tostones criollos",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "croquetas la casa",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "picadera mc.cesar",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa cerdo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan atun",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pan jamon-queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan pechuga",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan bistec",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "higado cerdo italiana",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "salteado vegetales",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "uruguayo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "brocha cerdo-pollo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "bistec grille",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "faja cerdo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "escalope",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "solomillo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado deshuesado",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pechuga grille",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "salteado pollo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pollo deshuesado",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "goldon blue",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "suprema princesa",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec res",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pescado grille",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pescado mc.cesar",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "canciller",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pescado empanado",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pescado salsa limon",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "camaron grille",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "camaron ajillo",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "torrejas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "ensalada helado",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "bola helado",
+                "price": 100,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "batido helado",
+                "price": 500,
+                "description": []
+            }
+        ]
+    }
+}

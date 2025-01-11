@@ -1,0 +1,162 @@
+{
+    "ID": 1302,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13675107242565,
+                "lng": -82.39117632632778
+            }
+        }
+    },
+    "name": "Bohío_Mercadito",
+    "type_cuisine": [
+        "americana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.2,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "baguette jamón y queso",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "croissant nutella",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "croissant jamón y queso",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "mini croissants chocolate",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "dona chocolate",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "capuchino",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "expresso",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "bombón",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "affogato",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "frappuccino",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "frutos del bosque/plátano",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "mango",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "frutabomba",
+                "price": 500.0,
+                "description": []
+            }
+        ]
+    }
+}

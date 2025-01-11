@@ -1,0 +1,230 @@
+{
+    "ID": 803,
+    "locality": {
+        "mun": "Habana del Este",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.165680191088374,
+                "lng": -82.28273010731503
+            }
+        }
+    },
+    "name": "Beer Para Creer",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "hamurguesa simple",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "hamburguesa especial",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "sandwich pinareno",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "croquetas del chef",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pan con lechon",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano con lechon",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fajitas de pollo",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo fritas",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de cerdo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "fricase de cerdo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo princesa",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "milanesa de cerdo",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "envoltino de cerdo",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "lonjas de cerdo asadas al carbon",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "uruguayo de cerdo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "gordon blue de cerdo",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo grille",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo gratinado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "fricase de pollo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "arroz a la chorrera",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco",
+                "price": 160,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso gouda",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 520,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

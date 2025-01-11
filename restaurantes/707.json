@@ -1,0 +1,271 @@
+{
+    "ID": 707,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": "52833863",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.14008936976356,
+                "lng": -82.3043403907062
+            }
+        }
+    },
+    "name": "Ruta 66",
+    "type_cuisine": [
+        "criolla",
+        "hamburguesas",
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "21:30"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones rellenos de jamón y queso",
+                "price": 1090,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de bolognesa",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de vegetales salteados y queso",
+                "price": 910,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "ceviche de pescado",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 595,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "brosquetas",
+                "price": 420,
+                "description": []
+            },
+            {
+                "item": "tamal",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "puré de malanga",
+                "price": 335,
+                "description": []
+            },
+            {
+                "item": "ensalada mixta de estación",
+                "price": 425,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "lomo ahumado (con gratinado de queso)",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado (con salsa de piña)",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "enchilado de camarones",
+                "price": 3300,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 2950,
+                "description": []
+            },
+            {
+                "item": "camarones en salsa de frutas",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "enchilado de pulpo",
+                "price": 2690,
+                "description": []
+            },
+            {
+                "item": "pulpo al ajillo",
+                "price": 2470,
+                "description": []
+            },
+            {
+                "item": "filete de pescado route 66 (a la plancha gratinado con queso y camarón)",
+                "price": 3550,
+                "description": []
+            },
+            {
+                "item": "monte toro a la francesa (a la plancha gratinado con queso)",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "filete de pescado en salsa de frutas",
+                "price": 2250,
+                "description": []
+            },
+            {
+                "item": "filete de pescado a la plancha",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "arroz frito especial route 66",
+                "price": 2065,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "super route 66 (cerdo)",
+                "price": 1965,
+                "description": []
+            },
+            {
+                "item": "castrol (cerdo)",
+                "price": 1255,
+                "description": []
+            },
+            {
+                "item": "texaco (cerdo)",
+                "price": 940,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso gouda",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasaña queso gouda",
+                "price": 1420,
+                "description": []
+            },
+            {
+                "item": "espaguetis de queso gouda",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 210.0,
+                "description": []
+            },
+            {
+                "item": "vino tinto",
+                "price": 2200.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refrescos importados",
+                "price": 240.0,
+                "description": []
+            },
+            {
+                "item": "malta importada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "agua mineral",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "jugos importados",
+                "price": 210.0,
+                "description": []
+            }
+        ]
+    }
+}

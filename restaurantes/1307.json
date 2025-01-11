@@ -1,0 +1,137 @@
+{
+    "ID": 1307,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.141896899912354,
+                "lng": -82.38847407686639
+            }
+        }
+    },
+    "name": "Montecatini",
+    "type_cuisine": [
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 400,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza dispensada",
+                "price": 80.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 270.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "nectar de piña",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "nectar ponche fruta",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "nectar melocoton",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "refresco mirinda",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "refresco manzanita",
+                "price": 270.0,
+                "description": []
+            }
+        ]
+    }
+}

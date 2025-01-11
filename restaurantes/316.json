@@ -1,0 +1,364 @@
+{
+    "ID": 316,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.136598497772514,
+                "lng": -82.36262616441789
+            }
+        }
+    },
+    "name": "Bazar Francés",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.5,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "coctel de camarones/shrimp cocktail",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "coctel de langosta/ lobster cocktail",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "croquetas al plato/croquettes on the plate",
+                "price": 150,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "rejo de langosta enchilada/lobster enchiladas",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "langosta al ajillo/grill lobster with garlic",
+                "price": 730,
+                "description": []
+            },
+            {
+                "item": "camarones salteados con vegetales/sauteed shrimps with vegetables",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "masa de cobo enchiladas/cobo enchilada dough",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "rueda de pescado bonito/fish wheel bonito",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "camarones enchilados",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grillé parga",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "camarones grille",
+                "price": 930,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 930,
+                "description": []
+            },
+            {
+                "item": "langosta salteadas con vegetales",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "langosta mariposa",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pescado entero frito -biajaiba-/fried whole fish",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo salteadas vegetales",
+                "price": 880,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo al ajillo/grilled pork with garlic",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado/grilled pork with onion",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "costilla de cerdo frita/fried pork ribs",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grillé/grilled pork loin",
+                "price": 820,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo encebollado/pork chop",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo al ajillo/garlic pork with chop",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita/fried pork dough",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "ternera guisada",
+                "price": 660,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "bistec de palomilla",
+                "price": 680,
+                "description": []
+            },
+            {
+                "item": "bistec de palomilla al ajillo",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "bistec de palomilla encebollado",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "carnero asado",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "aporreado de carnero",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "chilindron de carnero",
+                "price": 870,
+                "description": []
+            },
+            {
+                "item": "arroz con chicharrones/rice with chicharrones",
+                "price": 180,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "pote de helado sabores varios",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pote de helado sabores varios",
+                "price": 350,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "licores sabores varios/liquors flavors",
+                "price": 9.0,
+                "description": []
+            },
+            {
+                "item": "santa cruz del norte carta oro",
+                "price": 41.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "wisky old brigue",
+                "price": 115.0,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "café al licor/liqueur coffe",
+                "price": 25.0,
+                "description": []
+            },
+            {
+                "item": "café rocio del gallo/rocio del gallo coffe",
+                "price": 35.0,
+                "description": []
+            },
+            {
+                "item": "jarra de cerveza",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri frappé",
+                "price": 200.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "limonada frappé/frappé lemonade",
+                "price": 70.0,
+                "description": []
+            },
+            {
+                "item": "jugo natural de frutas/natural fruit juice",
+                "price": 90.0,
+                "description": []
+            },
+            {
+                "item": "malta megamalt",
+                "price": 225.0,
+                "description": []
+            },
+            {
+                "item": "refresco manzanita sol",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "jugo de frutas yes o del prado",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "café expreso/coffee express",
+                "price": 20.0,
+                "description": []
+            },
+            {
+                "item": "café con leche/coffe with milk",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 160.0,
+                "description": []
+            },
+            {
+                "item": "refresco miranda",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "limonada natural/natural lemonade",
+                "price": 35.0,
+                "description": []
+            }
+        ]
+    }
+}

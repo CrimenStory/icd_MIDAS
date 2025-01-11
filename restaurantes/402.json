@@ -1,0 +1,165 @@
+{
+    "ID": 402,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.11835682709935,
+                "lng": -82.3775341306507
+            }
+        }
+    },
+    "name": "El Rápido",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "tuesday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "wednesday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "thursday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "friday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "saturday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        },
+        "sunday": {
+            "opening": "07:30",
+            "closing": "19:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 2.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 360,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pan con tortilla",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pan con tortilla, jamón",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "pan con tortilla, chorizo",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "pan con tortilla, cebolla",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "pan con tortilla, queso gouda",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de cerdo",
+                "price": 620,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 720,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano",
+                "price": 860,
+                "description": []
+            },
+            {
+                "item": "pan con bitec de cerdo",
+                "price": 750,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "espaguetis napolitano",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "espaguetis de chorizo",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

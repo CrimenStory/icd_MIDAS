@@ -1,0 +1,306 @@
+{
+    "ID": 1510,
+    "locality": {
+        "mun": "San Miguel del Padrón",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.137384204567816,
+                "lng": -82.30805504947449
+            }
+        }
+    },
+    "name": "GaraG",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.9,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": null,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera garag",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "toston alfredo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 1225,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "croquetas de mima",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "ceviche",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "tacos de carnita",
+                "price": 1205,
+                "description": []
+            },
+            {
+                "item": "tacos marinesos",
+                "price": 1295,
+                "description": []
+            },
+            {
+                "item": "ensalada fria",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "coctel de camaron",
+                "price": 1250,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "filete de pescado grille",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "filete de pescado empanado",
+                "price": 1980,
+                "description": []
+            },
+            {
+                "item": "filete de pescado garag",
+                "price": 2225,
+                "description": []
+            },
+            {
+                "item": "canciller",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "filete alfredo",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "masas de pescado al ajito",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "pargo frito",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo grille",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "pollo empanado",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "cordon blue",
+                "price": 1925,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "cerdo grille",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "cerdo empanado",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "cerdo uruguayo",
+                "price": 1955,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "cerdo asado",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "camaron al ajillo",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "camaron grille",
+                "price": 2105,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 2230,
+                "description": []
+            },
+            {
+                "item": "camaron empanado",
+                "price": 2290,
+                "description": []
+            },
+            {
+                "item": "aporreado de res",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1930,
+                "description": []
+            },
+            {
+                "item": "arroz frito especial",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "ensalada estacion",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "vegetal salteado",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "napoles (pizza)",
+                "price": 930,
+                "description": []
+            },
+            {
+                "item": "anti hawaiana",
+                "price": 1555,
+                "description": []
+            },
+            {
+                "item": "lechocita",
+                "price": 1595,
+                "description": []
+            },
+            {
+                "item": "5 quesos",
+                "price": 1650,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "napoles (pasta)",
+                "price": 930,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

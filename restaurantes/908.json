@@ -1,0 +1,286 @@
+{
+    "ID": 908,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": "52811595",
+                "landline": "78644029"
+            },
+            "map": {
+                "lat": 23.141360421965942,
+                "lng": -82.35554676484041
+            }
+        }
+    },
+    "name": "Lo de Monik",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "huevos, tostadas, jamon, vegetales, jugo, cafe",
+                "price": 1800,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "yucas bravas / yucca with hot tacos sauce",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "croquetas / croquette",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "tamal en cazuela",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de jamon y queso",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "cerdo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "fituras de malanga",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "sandwich de vegetales",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamon y queso",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "sandwich de pollo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "sandwich de atun",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "vegetales / vegetables tacos",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pollo / chicken tacos",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "cerdo / pork tacos",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "ropa vieja / shredded beef tacos",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "camarón / shrimps tacos",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pescado / fish tacos",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "punta de filete / beef tacos",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "langosta / lobster tacos",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "pulpo / octopus tacos",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pollo grillado / grilled chicken",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "camarón grillado / grilled shrimps",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja / shredded beef",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja con garbanzos / shredded beef with chic",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pescado empanado / fish and chips",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo / pork masses",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "pescado grillado / grilled fish",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "pulpo grillado / grilled octopus",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "langosta / lobster",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "punta de filete a la deutch",
+                "price": 3800,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "pasta napolitana",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pasta de pollo con salsa alfredo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pasta frutti di mare",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "pasta napolitana",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pasta de pollo con salsa alfredo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pasta frutti di mare",
+                "price": 2300,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "postre de la casa / house's dessert",
+                "price": 600,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

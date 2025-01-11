@@ -1,0 +1,181 @@
+{
+    "ID": 405,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "52901805",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.11469533090789,
+                "lng": -82.38140701647916
+            }
+        }
+    },
+    "name": "La Casona del Cerro",
+    "type_cuisine": [
+        "criolla",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "14:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "pollo asado",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "masa frita",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fricasé de cerdo",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "chuleta",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana c/queso gouda",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pizza doble queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón y queso gouda",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza mixta c/queso gouda",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pizza familiar c/queso gouda",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza familiar doble queso",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pizza familiar de jamón y queso gouda",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza familiar mixta c/queso gouda",
+                "price": 1050,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti c/queso gouda",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "spaghetti c/ jamon y queso gouda",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "spaghetti doble queso gouda",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "spaghetti mixto",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "flan",
+                "price": 350,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

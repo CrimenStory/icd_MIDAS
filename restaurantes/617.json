@@ -1,0 +1,1031 @@
+{
+    "ID": 617,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "59525677",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.089487802079045,
+                "lng": -82.37706295092521
+            }
+        }
+    },
+    "name": "Lateral",
+    "type_cuisine": [
+        "criolla",
+        "cocteles",
+        "mexicana",
+        "pizzas",
+        "americana",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.6,
+        "qualification_tripadvisor": 3.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "a domicilio",
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de queso y arroz",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "empanadas sándwich cubano",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "empanadas de la casa",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso gouda",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga de pollo",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "espetón de pescado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "dados de pescado al curry",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pica - pica lateral",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tabla de salmón",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "chorizueso",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "cóctel de langosta",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tabla mixta lateral",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "yuca con mojo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "hamburguesa lateral de res (king size)",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "sándwich de pollo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "burrito de cerdo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tacos lateral",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "sándwich cubano",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "sándwich lateral",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de cerdo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "geviche de pescado",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "surtido de mariscos",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "picada mixta",
+                "price": 5300,
+                "description": []
+            },
+            {
+                "item": "tabla de jamón serrano",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "pulpo en salsa verde",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "cóctel de camarones",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "tartar de atún",
+                "price": 5300,
+                "description": []
+            },
+            {
+                "item": "tacos de ropa vieja",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "burrito de pollo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "burrito de camarón",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "tacos de camarón",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "taco cerdo-res",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "burrito de ropa vieja",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tamal cubano",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan con lechón italiano",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "paella marinera",
+                "price": 5000,
+                "description": []
+            },
+            {
+                "item": "oferta mariscos sobre paella",
+                "price": 7500,
+                "description": []
+            },
+            {
+                "item": "arroz campesino",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "paella mixta 2pax",
+                "price": 4500,
+                "description": []
+            },
+            {
+                "item": "arroz con pollo",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo grille",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo rellena",
+                "price": 2750,
+                "description": []
+            },
+            {
+                "item": "chop suey",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "lonja de cerdo",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "carne de cerdo estofada",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "uruguayo",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "solomillo 460 gr",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo 350 gr",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de res",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "bistec de res",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "lonja de res",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "picadillo a lo cubano",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "corte de res rib eye",
+                "price": 7000,
+                "description": []
+            },
+            {
+                "item": "tomahawk",
+                "price": 16800,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grille",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "pescado con camarones",
+                "price": 3900,
+                "description": []
+            },
+            {
+                "item": "pescado con langosta",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "lomo de pescado",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "canciller",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "lomo de salmón",
+                "price": 5800,
+                "description": []
+            },
+            {
+                "item": "fricasé de cordero",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "camarones al gusto",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cola de langosta al gusto",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "filete mignon",
+                "price": 7000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza lateral",
+                "price": 1780,
+                "description": []
+            },
+            {
+                "item": "pizza carne cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pizza carbonara",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "pizza pimiento, bacon, cebolla",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "pizza mixta",
+                "price": 1365,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "pizza jamón",
+                "price": 1275,
+                "description": []
+            },
+            {
+                "item": "pizza atún",
+                "price": 1220,
+                "description": []
+            },
+            {
+                "item": "pizza margarita",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza camarón",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pizza vegetales",
+                "price": 1580,
+                "description": []
+            },
+            {
+                "item": "pizza cebolla",
+                "price": 1210,
+                "description": []
+            },
+            {
+                "item": "pizza bacon y cebolla",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza cuatro quesos",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza de salami con aceitunas gouda",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "pizza bacon con queso gouda",
+                "price": 2320,
+                "description": []
+            },
+            {
+                "item": "pizza pimiento",
+                "price": 1110,
+                "description": []
+            },
+            {
+                "item": "pizza jamón con queso gouda",
+                "price": 1785,
+                "description": []
+            },
+            {
+                "item": "pizza peperoni con queso edam o gouda",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pizza pimiento con queso gouda o edam",
+                "price": 1410,
+                "description": []
+            },
+            {
+                "item": "pizza boloñesa",
+                "price": 1580,
+                "description": []
+            },
+            {
+                "item": "pizza bolohesa gouda",
+                "price": 2180,
+                "description": []
+            },
+            {
+                "item": "pizza langosta",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pasta carbonara",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pasta marinera",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "pasta napolitana",
+                "price": 1120,
+                "description": []
+            },
+            {
+                "item": "pasta de jamón",
+                "price": 1370,
+                "description": []
+            },
+            {
+                "item": "pasta de jamón con queso edam o gouda",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "pasta napolitana con queso edam o gouda",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pasta de camarón con salsa blanca",
+                "price": 2650,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "crepes",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "caja cake",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "semifrio",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cheesecake",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pote semifrio",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "tres leches",
+                "price": 750,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "tonel cerveza dispensada 2lts",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "tonel de cerveza dispensada 3lts",
+                "price": 2900.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "vaso de dispensada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "jarra de dispensada",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska absolut",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "screw driver",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "negroni",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "dry martini",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "michelada dispensada",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "mary pickford",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "margarita frutas",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "moscow mule",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 1905.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri frappe",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "caipirissima",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "michelada mule",
+                "price": 1300.0,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "mojito frutas",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri frutas",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "mojito frappe",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic importado",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "calimocho",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "tinto de verano",
+                "price": 1150.0,
+                "description": []
+            },
+            {
+                "item": "cóctel lateral",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "caipirichi",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "martini saborizado",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri saborizado",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska frutas",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "old fashionet",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "canchanchara",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "long island ice tea",
+                "price": 1300.0,
+                "description": []
+            },
+            {
+                "item": "blue star",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "cuban smoky",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "servicio de micheladas",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "moscow mule gray goose",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary gray goose",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska gray goose",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "screws drivers gray goose",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska stolichnaya",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska croc",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "long island ice tea",
+                "price": 1300.0,
+                "description": []
+            },
+            {
+                "item": "blue star",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "cuban smoky",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "servicio de micheladas",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "moscow mule gray goose",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary gray goose",
+                "price": 1700.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska gray goose",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "screws drivers gray goose",
+                "price": 1900.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska stolichnaya",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska croc",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "red label",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "black label",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "doble black",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "ballentine",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "limonada frappe con hierba buena",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "limonada rebelde",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "san francisco lateral",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "carajillo",
+                "price": 500.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua gaseada",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "limonada frape",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "jugos",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "agua natural importada pequeña",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "limonada fruta",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "refresco pepsi",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "smoothie",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "café",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "café con coffee mate",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "café bombón",
+                "price": 850.0,
+                "description": []
+            }
+        ]
+    }
+}

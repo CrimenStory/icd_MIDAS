@@ -1,0 +1,160 @@
+{
+    "ID": 103,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "72605497"
+            },
+            "map": {
+                "lat": 23.171538273047627,
+                "lng": -82.2534967783034
+            }
+        }
+    },
+    "name": "El Triangulo",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "fajitas de pollo",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 150,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo frito",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cerveza escorial",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza holanda",
+                "price": 200.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "jugo de caja",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "red bull",
+                "price": 230.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 220.0,
+                "description": []
+            }
+        ]
+    }
+}

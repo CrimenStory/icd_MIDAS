@@ -1,0 +1,208 @@
+{
+    "ID": 408,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78701632"
+            },
+            "map": {
+                "lat": 23.12627363995597,
+                "lng": -82.38090833528463
+            }
+        }
+    },
+    "name": "Rico Rico",
+    "type_cuisine": [
+        "criolla",
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": 4.4,
+        "qualification_facebook": 4.6
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "a domicilio",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ensalada fría de atún (pequeña)",
+                "price": 645,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de atún (mediana)",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de atún (grande)",
+                "price": 2205,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de jamón y queso (pequeña)",
+                "price": 495,
+                "description": []
+            },
+            {
+                "item": "pizzeta de napole",
+                "price": 230,
+                "description": []
+            },
+            {
+                "item": "pizzeta de chorizo",
+                "price": 325,
+                "description": []
+            },
+            {
+                "item": "bastones de queso",
+                "price": 780,
+                "description": []
+            },
+            {
+                "item": "empanadas gallegas",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "tequeños",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napoles",
+                "price": 920,
+                "description": []
+            },
+            {
+                "item": "pasta napoles",
+                "price": 920,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pasta carbonara",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "calzone napoles",
+                "price": 1090,
+                "description": []
+            },
+            {
+                "item": "megacalzone",
+                "price": 1440,
+                "description": []
+            },
+            {
+                "item": "lasaña boloñesa",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "lasaña de jamon",
+                "price": 1490,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "pastelito de ojaldre de guayaba o coco",
+                "price": 260,
+                "description": []
+            },
+            {
+                "item": "pastelito de ojaldre de jamón y queso",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "flan",
+                "price": 590,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "frappi rico",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "mega bati bati",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "super bati bati",
+                "price": 785,
+                "description": []
+            },
+            {
+                "item": "bati frutas",
+                "price": 675,
+                "description": []
+            }
+        ]
+    }
+}

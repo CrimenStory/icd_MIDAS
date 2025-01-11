@@ -1,0 +1,244 @@
+{
+    "ID": 1301,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": "63960310",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.11052702904802,
+                "lng": -82.39914526484186
+            }
+        }
+    },
+    "name": "El Pelícano",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": null,
+            "closing": null
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "18:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "a domicilio",
+        "zoologico"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "pan con jamón y queso",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pan con perro",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "pan con lechón",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan con hamburguesa",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "picadera de jamón y queso",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "salchipapa",
+                "price": 750,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo frito",
+                "price": 420,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 520,
+                "description": []
+            },
+            {
+                "item": "brochetas de pollo y vegetales",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "brochetas mixtas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "brochetas de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "lonja de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo",
+                "price": 990,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "paleta de chocolate",
+                "price": 260,
+                "description": []
+            },
+            {
+                "item": "pote de helado",
+                "price": 495,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 290.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 390.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "cafe expresso",
+                "price": 90.0,
+                "description": []
+            },
+            {
+                "item": "cafe cortado",
+                "price": 110.0,
+                "description": []
+            },
+            {
+                "item": "cafe bombón",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "jugo de cajita",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "agua",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "refresco de lata",
+                "price": 195.0,
+                "description": []
+            },
+            {
+                "item": "limonada frape",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 220.0,
+                "description": []
+            }
+        ]
+    }
+}

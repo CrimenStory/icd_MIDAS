@@ -1,0 +1,207 @@
+{
+    "ID": 301,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "53372715",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13771148492377,
+                "lng": -82.36400171839173
+            }
+        }
+    },
+    "name": "Mundo Pizza",
+    "type_cuisine": [
+        "criolla",
+        "helados",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.6,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": 4.1
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram",
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas caseras",
+                "price": 590,
+                "description": []
+            },
+            {
+                "item": "tostones criollos",
+                "price": 540,
+                "description": []
+            },
+            {
+                "item": "focaccia",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "pizza rossa",
+                "price": 590,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza metro criolla",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "pizza metro casa",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "pizza metro gouda",
+                "price": 5100,
+                "description": []
+            },
+            {
+                "item": "pizza metro elección",
+                "price": 5150,
+                "description": []
+            },
+            {
+                "item": "pizza 1/2 metro mix",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pizza 1/2 metro elección",
+                "price": 2700,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "lasagna",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "espaguetis al pesto",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "espaguetis del dia",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "postre del dia",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza a chocolate",
+                "price": 815,
+                "description": []
+            },
+            {
+                "item": "helado 3 gracias",
+                "price": 500,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 390.0,
+                "description": []
+            },
+            {
+                "item": "jugo cajita",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "yogurt",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300.0,
+                "description": []
+            }
+        ]
+    }
+}

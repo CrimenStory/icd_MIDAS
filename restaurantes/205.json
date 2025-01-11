@@ -1,0 +1,328 @@
+{
+    "ID": 205,
+    "locality": {
+        "mun": "Boyeros",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76472100"
+            },
+            "map": {
+                "lat": 23.057907847349583,
+                "lng": -82.3829208644179
+            }
+        }
+    },
+    "name": "El Abuelo de Oro",
+    "type_cuisine": [
+        "criolla",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "tuesday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "wednesday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "thursday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "friday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "saturday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        },
+        "sunday": {
+            "opening": "11:30",
+            "closing": "23:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.1,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": 4.0
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "usd"
+    ],
+    "service_details": [
+        "generador",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "desayuno de oro",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "empanadas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "frituras",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "papas bravas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "papas doradas",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "ceviche",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cóctel de langosta",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cóctel de camarón",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tabla surtida",
+                "price": 3000,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "taco ropa vieja",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "taco vaca frita",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "taco de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "sándwich jamón y queso",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "sándwich pechuga y queso",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "bistec de res en cazuela",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "picadillo habanera",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "bistec encebollado",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "cerdo salteado",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "medalla con jamón y queso",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "medalla con ropa vieja y queso",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "chuletilla",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grillé",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "filete de pescado montado",
+                "price": 4000,
+                "description": []
+            },
+            {
+                "item": "gratín del mar",
+                "price": 4000,
+                "description": []
+            },
+            {
+                "item": "langosta variada",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "camarón variado",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "pechuga grillé",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pechuga salteada",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "pollo frito (1/4)",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "chuletilla",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "camarón variado",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "1kg cerdo asado (para 4 personas)",
+                "price": 15000,
+                "description": []
+            },
+            {
+                "item": "chuletón de cerdo (para 2 personas)",
+                "price": 6500,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "mar y tierra (para 4 personas)",
+                "price": 19000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza nápole",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza jamón",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza hawaina",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza cebolla",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pizza pimientos",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pizza peperoni",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis nápole",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "espaguetis jamón",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

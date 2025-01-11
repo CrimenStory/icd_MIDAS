@@ -1,0 +1,302 @@
+{
+    "ID": 107,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": "52966948",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.062585294878723,
+                "lng": -82.36389982686543
+            }
+        }
+    },
+    "name": "Pizzería Los Atrevidos",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 4.8
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "fajitas de pollo",
+                "price": 2496,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 2080,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza 4 quesos",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1760,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "pizza super atrevida",
+                "price": 2080,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 1760,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón serrano",
+                "price": 2240,
+                "description": []
+            },
+            {
+                "item": "pizza de peperoni",
+                "price": 1760,
+                "description": []
+            },
+            {
+                "item": "pizza de pimiento",
+                "price": 1440,
+                "description": []
+            },
+            {
+                "item": "pizza de camarones",
+                "price": 2240,
+                "description": []
+            },
+            {
+                "item": "pizza de champiñones",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 1440,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo vela",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pizza de aceitunas",
+                "price": 1536,
+                "description": []
+            },
+            {
+                "item": "pizza de atún",
+                "price": 1664,
+                "description": []
+            },
+            {
+                "item": "pizza de atún con cebolla",
+                "price": 1760,
+                "description": []
+            },
+            {
+                "item": "pizza de baecon",
+                "price": 1920,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lazaña",
+                "price": 1440,
+                "description": []
+            },
+            {
+                "item": "spaguetis de aceitunas",
+                "price": 2080,
+                "description": []
+            },
+            {
+                "item": "spaguetis de atún",
+                "price": 2240,
+                "description": []
+            },
+            {
+                "item": "spaguetis de camarones",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "spaguetis hawaianos",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "spaguetis 4 quesos",
+                "price": 2240,
+                "description": []
+            },
+            {
+                "item": "spaguetis atrevidos",
+                "price": 2720,
+                "description": []
+            },
+            {
+                "item": "spaguetis",
+                "price": 1440,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza sol",
+                "price": 1120.0,
+                "description": []
+            },
+            {
+                "item": "cerveza corona",
+                "price": 1120.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 896.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "pepsi",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "pomo coca cola 750 ml",
+                "price": 960.0,
+                "description": []
+            },
+            {
+                "item": "sevenup",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "sprite",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "jugo de pera la estancia",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "jugo manzana la estancia",
+                "price": 1280.0,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "malta bucanero",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "coca cola",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "coca cola 1.75 ltr",
+                "price": 1760.0,
+                "description": []
+            },
+            {
+                "item": "fanta",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 1500 ml",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 500ml",
+                "price": 400.0,
+                "description": []
+            }
+        ]
+    }
+}

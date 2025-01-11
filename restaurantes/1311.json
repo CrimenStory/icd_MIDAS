@@ -1,0 +1,469 @@
+{
+    "ID": 1311,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78375201"
+            },
+            "map": {
+                "lat": 23.122559059103462,
+                "lng": -82.40447597300033
+            }
+        }
+    },
+    "name": "Bodegón del Asado",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "pan baguette recién horneado",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "picada bodegón",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "croqueticas caseras de la guajira",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "croqueticas de pescado",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "eperlans de pescado",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "bolitas de carne",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "frituritas de malanga",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "chicharrones crujientes de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tostones cubanos al ajo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "tamalito en cazuela a la cubana",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "cesta de yuca con ropa vieja",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo empanadas",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "tamal en cazuela a la cubana",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "charcutería artesanal",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "filete de cerdo a las brasas del carbón",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "mixto de asados criollos",
+                "price": 7000,
+                "description": []
+            },
+            {
+                "item": "a las brasas del carbón 1 kg de cerdo asado",
+                "price": 9000,
+                "description": []
+            },
+            {
+                "item": "1/2 kg de cerdo asado",
+                "price": 4700,
+                "description": []
+            },
+            {
+                "item": "ración de cerdo asado",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo al carbón",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado sin hueso",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille ",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "lomo sin hueso",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "costillas de cerdo a las brasas",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "filete de pescado",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de res",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo salteadas",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "chilindrón de cordero",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo fritas",
+                "price": 3500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pizza doble queso",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza de ropa vieja",
+                "price": 3100,
+                "description": []
+            },
+            {
+                "item": "pizza de ropa vieja de cerdo",
+                "price": 3000,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "casquito de guayaba con queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "mermelada de guayaba con queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "flan al caramelo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "dulce de frutabomba en almíbar con queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "buñuelos de la abuela",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "copa de helado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "copa lolita",
+                "price": 950,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "mojito bodegón",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cuba libre bodegón",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "cubata bodegón",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "daiquirí frappé o natural",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "havana special",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "mary  pickford",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "martini",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "caipirísima",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "gin tonic beefeater",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "cervezas nacionales",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "cervezas importadas",
+                "price": 400,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "limonada frappé",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "limonada natural",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "limonada  frescura",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "limonada de frutas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "agua gaseada ciego montero",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "agua tónica ciego montero",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas naturales",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "expresso",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "café con leche",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cortadito",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cappuccino",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "frappuccino",
+                "price": 600,
+                "description": []
+            }
+        ]
+    }
+}

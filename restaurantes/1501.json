@@ -1,0 +1,175 @@
+{
+    "ID": 1501,
+    "locality": {
+        "mun": "San Miguel del Padrón",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.09939463317276,
+                "lng": -82.3324060073085
+            }
+        }
+    },
+    "name": "Buena Vibra",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "vianda frita",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "tostones tradicionales",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa de pollo",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "hígado de cerdo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "espaguetti con queso",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "espaguetti de jamón",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "tequila reposado",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "licor crema",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

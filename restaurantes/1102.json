@@ -1,0 +1,138 @@
+{
+    "ID": 1102,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.084914482920695,
+                "lng": -82.42430664968636
+            }
+        }
+    },
+    "name": "Cafeteria Obelisco",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "bolitas de carne",
+                "price": 20,
+                "description": []
+            },
+            {
+                "item": "dados de queso",
+                "price": 180,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pan con queso y embutido",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "vino blanco entre rio",
+                "price": 160.0,
+                "description": []
+            },
+            {
+                "item": "vino blanco",
+                "price": 160.0,
+                "description": []
+            },
+            {
+                "item": "cerveza",
+                "price": 50.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua saborizada",
+                "price": 50.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 180.0,
+                "description": []
+            }
+        ]
+    }
+}

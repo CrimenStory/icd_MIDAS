@@ -1,0 +1,292 @@
+{
+    "ID": 903,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78015162"
+            },
+            "map": {
+                "lat": 23.142051017464148,
+                "lng": -82.35552776299248
+            }
+        }
+    },
+    "name": "Café Del Ángel",
+    "type_cuisine": [
+        "española",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "del angel",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "croissant madame",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "omelette al queso",
+                "price": 1630,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pancakes",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "continental",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "bagel nordico",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "yogurt parfait",
+                "price": 1360,
+                "description": []
+            },
+            {
+                "item": "bagel catalan",
+                "price": 2450,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "croquetas serrano",
+                "price": 1480,
+                "description": []
+            },
+            {
+                "item": "rillete de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "mixto de brusquetas",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "tacos de camarones",
+                "price": 2380,
+                "description": []
+            },
+            {
+                "item": "empanadillas de queso",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "tabla charcuteria",
+                "price": 4000,
+                "description": []
+            },
+            {
+                "item": "ensalada del angel",
+                "price": 2340,
+                "description": []
+            },
+            {
+                "item": "baguette de jamon & queso",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "bocata catalana",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "sandwich de atun",
+                "price": 1530,
+                "description": []
+            },
+            {
+                "item": "sandwich vegetales",
+                "price": 1530,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "huevos & pesto",
+                "price": 2400,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "solomillo de cerdo",
+                "price": 4200,
+                "description": []
+            },
+            {
+                "item": "pescado a la siciliana",
+                "price": 3580,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 3580,
+                "description": []
+            },
+            {
+                "item": "costillas de cerdo",
+                "price": 4950,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "langosta caribena",
+                "price": 5400,
+                "description": []
+            },
+            {
+                "item": "pollo mediterraneo",
+                "price": 2340,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti pomodoro",
+                "price": 1880,
+                "description": []
+            },
+            {
+                "item": "ragu de cordero",
+                "price": 3450,
+                "description": []
+            },
+            {
+                "item": "ravioli carbonara",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "spaghetti al pesto",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "rigatoni amatriciana",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "spaghetti altamar",
+                "price": 3450,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "mousse de chocolate",
+                "price": 1925,
+                "description": []
+            },
+            {
+                "item": "esfera de maracuya",
+                "price": 1925,
+                "description": []
+            },
+            {
+                "item": "arroz con leche",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "dados de guayaba",
+                "price": 1500,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

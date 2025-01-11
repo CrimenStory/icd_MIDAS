@@ -1,0 +1,216 @@
+{
+    "ID": 502,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "63436878"
+            },
+            "map": {
+                "lat": 23.03093446114541,
+                "lng": -82.26395872798486
+            }
+        }
+    },
+    "name": "Pal'Karajo",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "chicharrita de boniato",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pan pal'karajo",
+                "price": 790,
+                "description": []
+            },
+            {
+                "item": "pan con lechón",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pan con jamón",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pan con chorizo",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pan con jamón y chorizo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo mechados",
+                "price": 890,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo estofados",
+                "price": 990,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "michelada con cristal",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "chelada con cristal",
+                "price": 550.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "expresso",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "capuccino",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "frapuccino",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "bombón",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "jugo de mango",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "jugo de piña",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "batido de mango",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "batido de mamey",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "batido de trigo",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "batido de maní",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "batido de maní con chocolate",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "limonada",
+                "price": 400.0,
+                "description": []
+            }
+        ]
+    }
+}

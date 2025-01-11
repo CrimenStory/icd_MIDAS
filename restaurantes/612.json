@@ -1,0 +1,202 @@
+{
+    "ID": 612,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "53546497",
+                "landline": "76402287"
+            },
+            "map": {
+                "lat": 23.085531569677052,
+                "lng": -82.37256867791115
+            }
+        }
+    },
+    "name": "AMABLE'S PIZZERÍA",
+    "type_cuisine": [
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.3,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza d' queso blanco",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con jamón",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con chorizo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con piña",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con cebolla",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con pimiento",
+                "price": 630,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con atún",
+                "price": 720,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso blanco con aceitunas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con jamón",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con chorizo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con piña",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con cebolla",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con pimiento",
+                "price": 880,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con atún",
+                "price": 970,
+                "description": []
+            },
+            {
+                "item": "pizza d' queso gouda con aceitunas",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti d' queso b",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "spaghetti d' queso g",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 220.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco de lata",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "refresco coca cola",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refresco de pomo",
+                "price": 650.0,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "ID": 608,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76990583"
+            },
+            "map": {
+                "lat": 23.1055829712021,
+                "lng": -82.35832236452364
+            }
+        }
+    },
+    "name": "La Ronda",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "vianda frita",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "tostones naturales",
+                "price": 370,
+                "description": []
+            },
+            {
+                "item": "fajita cerdo salteada",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos jamón y queso",
+                "price": 620,
+                "description": []
+            },
+            {
+                "item": "fajita de cerdo empanada",
+                "price": 1180,
+                "description": []
+            },
+            {
+                "item": "tabla ronda",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "alitas empanadas",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "coctel de pescado",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tamal en cazuela",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "entremés de jamón, queso, chorizo y aceituna",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "epertán",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "ensalada fría",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pan con bistec",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "pan con cerdo",
+                "price": 1840,
+                "description": []
+            },
+            {
+                "item": "pan cubano",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de cerdo",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de chorizo",
+                "price": 640,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "masa de cerdo frita",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "lomo a la barbacoa",
+                "price": 1180,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "fricase de cerdo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "cerdo salteado con vegetales",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "cerdo agridulce",
+                "price": 1140,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo de cerdo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "lonjas de cerdo asado",
+                "price": 1460,
+                "description": []
+            },
+            {
+                "item": "brochetas de cerdo",
+                "price": 2350,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo empanado",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 1160,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo a la piña",
+                "price": 1220,
+                "description": []
+            },
+            {
+                "item": "filete de pescado empanado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pollo asado a la criolla",
+                "price": 1030,
+                "description": []
+            },
+            {
+                "item": "pollo frito a la criolla",
+                "price": 1030,
+                "description": []
+            },
+            {
+                "item": "pollo a la barbacoa",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "arroz frito sin mariscos",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "arroz frito con camarones",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "monte mary (para 2 pers.)",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "enchilado de camarones",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "camarones empanados",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "grillada del mar",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "paella marinera para dos",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grille",
+                "price": 1090,
+                "description": []
+            },
+            {
+                "item": "bistec de res encebollado",
+                "price": 1060,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana doble queso",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza con jamón",
+                "price": 1220,
+                "description": []
+            },
+            {
+                "item": "pizza con chorizo",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "pizza con cebolla",
+                "price": 1080,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pizza con aceituna",
+                "price": 1380,
+                "description": []
+            },
+            {
+                "item": "pizza super ronda",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "pizza con camarones",
+                "price": 1750,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 780,
+                "description": []
+            },
+            {
+                "item": "spaghetti doble queso",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "spaghetti con jamón",
+                "price": 840,
+                "description": []
+            },
+            {
+                "item": "spaghetti con chorizo",
+                "price": 840,
+                "description": []
+            },
+            {
+                "item": "spaghetti con cebolla",
+                "price": 780,
+                "description": []
+            },
+            {
+                "item": "spaghetti con camarones",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "spaghetti a la boloñesa",
+                "price": 980,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

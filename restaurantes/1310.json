@@ -1,0 +1,357 @@
+{
+    "ID": 1310,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": "59121916",
+                "landline": "78374828"
+            },
+            "map": {
+                "lat": 23.131291003595813,
+                "lng": -82.40481170717004
+            }
+        }
+    },
+    "name": "Coco Blue",
+    "type_cuisine": [
+        "cafe",
+        "cocteles",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": null,
+            "closing": null
+        },
+        "wednesday": {
+            "opening": null,
+            "closing": null
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "00:30"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "00:30"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "00:30"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "00:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.5,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "desayuno",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de pollo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "sandwich zorra pelua",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "nachos",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "boniato frito",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "croquetas de pescado",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "croquetas de res",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tacos de vegetales",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tacos de res",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "ceviche",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de pollo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "espaguetti napolitano",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "filete de pescado",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 2100,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "cascos de guayaba",
+                "price": 800,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "importadas",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "nacional",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "cristal dispensada",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cubetazo",
+                "price": 2800.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí de sabores",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska base",
+                "price": 570.0,
+                "description": []
+            },
+            {
+                "item": "caipirísima",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 880.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "jagger bomb",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "blue lagon",
+                "price": 1100.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "expresso",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "capuccino",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "frappuccino",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "frutas",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "natural",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "frappé",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "frescura",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "natural",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "tónica",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "gaseada",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "refrescos",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 700.0,
+                "description": []
+            }
+        ]
+    }
+}

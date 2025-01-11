@@ -1,0 +1,553 @@
+{
+    "ID": 621,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76388121"
+            },
+            "map": {
+                "lat": 23.10834302009389,
+                "lng": -82.36543159510408
+            }
+        }
+    },
+    "name": "Bar Pacto Secreto",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "03:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones naturales",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 470,
+                "description": []
+            },
+            {
+                "item": "croquetas de la casa",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "bolitas de carne picantes",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 780,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos jamón",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos chorizo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos atún",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos mixtos",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo troceado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pollo a la juliana",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "masas al gusto",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "canchánchara",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cubalibre",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "cubaquito",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tom collins",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "caipirosca",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "caipira",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic plus",
+                "price": 680.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic plus",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "screwdriver",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "old fashion",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "old fashion plus",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "blue lagoon",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "blue hawaii",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "piña colada s/a",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "pacto secreto",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "cervezas importadas",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "cerveza corona",
+                "price": 400.0,
+                " description": null,
+                "description": []
+            },
+            {
+                "item": "jarra dispensada(500 ml)",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "termo dispensada(3l)",
+                "price": 2000.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "santiago tradición",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "santiago 3 años",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "santiago 8 años",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "santiago 12 años",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "h. club especial",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "h. club reserva",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "h. club 7 años",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "h. club 3 de maestro",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "h. club 15 años",
+                "price": 2000.0,
+                "description": []
+            },
+            {
+                "item": "bailey",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "tequila rose",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "igor",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "absolut",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "meukow",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "courvoisier",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "hennessey",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "beefeater",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "gordon",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "bombay",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tanqueray",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "shot 3limador",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "shot hornitos",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "don julio reposado",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "don julio añejo",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "olmeca blanco",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "olmeca reposado",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "ballantines",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "ballantines 12",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "jameson",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "jack daniels",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "chivas regal 12",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "chivas regal extra",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "j w red label",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "j w black label",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "j w swing",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "j w select cosk",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "j w the spice road",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "j w island green",
+                "price": 2000.0,
+                "description": []
+            },
+            {
+                "item": "j w platinum edited limited",
+                "price": 2500.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "limonada frappé",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refrescos importados",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "maltas importadas",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "malta bucanero",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "batidos frutas",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "red bull",
+                "price": 500.0,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "ID": 409,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.117562853692327,
+                "lng": -82.38451702024058
+            }
+        }
+    },
+    "name": "Shapuseros",
+    "type_cuisine": [
+        "hamburguesas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa de pollo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de cerdo",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "hamburguesa shapusero",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

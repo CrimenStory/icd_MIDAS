@@ -1,0 +1,201 @@
+{
+    "ID": 208,
+    "locality": {
+        "mun": "Boyeros",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76472532"
+            },
+            "map": {
+                "lat": 23.065174820392418,
+                "lng": -82.3755823766412
+            }
+        }
+    },
+    "name": "Doña Almira",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": null,
+            "closing": null
+        },
+        "wednesday": {
+            "opening": null,
+            "closing": null
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones rellenos",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "tamal en cazuela",
+                "price": 785,
+                "description": []
+            },
+            {
+                "item": "vegetales rellenos",
+                "price": 895,
+                "description": []
+            },
+            {
+                "item": "racion de chicharrones",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "aderezo doña almira",
+                "price": 385,
+                "description": []
+            },
+            {
+                "item": "salsa agridulce",
+                "price": 395,
+                "description": []
+            },
+            {
+                "item": "entredos de chorizo",
+                "price": 1225,
+                "description": []
+            },
+            {
+                "item": "ceviche de pescado",
+                "price": 685,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "mignon de pescado grille",
+                "price": 1370,
+                "description": []
+            },
+            {
+                "item": "mignon de pescado a las finas hierbas",
+                "price": 1410,
+                "description": []
+            },
+            {
+                "item": "mignon de pescado doña almira",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "mignon de pescado gratinado",
+                "price": 1585,
+                "description": []
+            },
+            {
+                "item": "mignon de pescado con queso y bacon",
+                "price": 1720,
+                "description": []
+            },
+            {
+                "item": "costillas de cerdo",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "bistec americano",
+                "price": 2430,
+                "description": []
+            },
+            {
+                "item": "nasobuco",
+                "price": 1860,
+                "description": []
+            },
+            {
+                "item": "bistec de higado",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "higado a la italiana",
+                "price": 1380,
+                "description": []
+            },
+            {
+                "item": "lomo rostizado",
+                "price": 2150,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "mousse variados",
+                "price": 570,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "cafe cubano",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "cafe cortado",
+                "price": 180,
+                "description": []
+            }
+        ]
+    }
+}

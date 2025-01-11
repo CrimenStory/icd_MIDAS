@@ -1,0 +1,430 @@
+{
+    "ID": 1110,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": "54497753",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.07275737968528,
+                "lng": -82.43208755151812
+            }
+        }
+    },
+    "name": "A y J Fast Food",
+    "type_cuisine": [
+        "americana",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "hamburguesa clasica",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "hamburguesa hawaiana",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con huevo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "hamburguesa 2ble queso",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa 2ble jamon",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con jamon y queso",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con chorizo",
+                "price": 520,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con jamon y chorizo",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con queso y chorizo",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "hamburguesa tropical",
+                "price": 520,
+                "description": []
+            },
+            {
+                "item": "hamburguesa americana",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "hamburguesa jumbo",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "hamburguesa especial a&j",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamon y queso",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "sandwich especial",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "sandwich marinero",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "crispi de pollo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "crispi de pollo verano",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "croquetas surtidas",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "toston relleno",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "ensalada fria",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "eperlan de pescado",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "camarones rebosados",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "picadera a&j",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de cerdo grille",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo empanado",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo grille",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "golden blue",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pescado al limon",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "pescado gratinado",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "pescado canciller",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "pescado rebosado",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "pescado hawellano",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "langosta grille",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "langosta reyna",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "enchilado de langosta",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "camaron al ajillo",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "mar y tierra",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "fiesta de marisco",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "paella",
+                "price": 4500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana 32cm",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "spaghetti carbonara",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "spaghetti a la matriciana",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "lasagna",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 220,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "batidos de fruta",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 700,
+                "description": []
+            }
+        ]
+    }
+}

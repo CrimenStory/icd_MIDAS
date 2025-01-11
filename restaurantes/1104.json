@@ -1,0 +1,183 @@
+{
+    "ID": 1104,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": "52016522",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.081534878689336,
+                "lng": -82.42156649198839
+            }
+        }
+    },
+    "name": "La Yaya",
+    "type_cuisine": [
+        "pizzas",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "superpicadera",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fajitas de pollo con papa",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza doble queso",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon",
+                "price": 1350,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaguettis con queso gouda",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "spaguettis doble queso",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helados gusto",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cervezas importadas",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cubelazo",
+                "price": 2700.0,
+                "description": []
+            },
+            {
+                "item": "termo de cerveza",
+                "price": 2000.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refrescos importados",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "jugo de lata",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "jugos caja",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "malta santa isabel",
+                "price": 280.0,
+                "description": []
+            }
+        ]
+    }
+}

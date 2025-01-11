@@ -1,0 +1,471 @@
+{
+    "ID": 406,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "53654726",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.11990973944172,
+                "lng": -82.38314468033592
+            }
+        }
+    },
+    "name": "La Lola",
+    "type_cuisine": [
+        "criolla",
+        "cocteles",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "tuesday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "wednesday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "thursday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "friday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "saturday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        },
+        "sunday": {
+            "opening": "14:00",
+            "closing": "02:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "brusquetas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "croquetas de jamón",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "papas gratinadas",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "tostón relleno de atún",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tostón relleno de jamón y queso",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 730,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "picadera lalola",
+                "price": 4000,
+                "description": []
+            },
+            {
+                "item": "picadera sencilla",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bocadillo de jamón y queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "sándwich de jamón y queso/papas",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "sándwich cubano",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "sándwich de jamón y queso",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "canelones",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "penne napolitano",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tacos de carne",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "hamburguesa",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "lonjas de cerdo",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "nuggets de pollo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo",
+                "price": 1750,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "espagueti napolitano",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espagueti a la carbonara",
+                "price": 1970,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "copa lolita ración",
+                "price": 2000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "piña colada",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "screw driver",
+                "price": 475.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "gintonic",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "john collins",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "blue hawai",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "blue lagoon",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "caipirisima",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero lata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cerveza heineken botella",
+                "price": 574.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal lata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal botella",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "cerveza super bock botella",
+                "price": 370.0,
+                "description": []
+            },
+            {
+                "item": "cerveza sol",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "botella de whisky ballantines",
+                "price": 10000.0,
+                "description": []
+            },
+            {
+                "item": "botella de whisky johnnie walker red label",
+                "price": 13000.0,
+                "description": []
+            },
+            {
+                "item": "botella de whisky johnnie walker red label 1lt",
+                "price": 15000.0,
+                "description": []
+            },
+            {
+                "item": "botella de whisky jamerson",
+                "price": 10000.0,
+                "description": []
+            },
+            {
+                "item": "botella de whisky chivas regal",
+                "price": 15000.0,
+                "description": []
+            },
+            {
+                "item": "botella de ron havana club smokey",
+                "price": 5000.0,
+                "description": []
+            },
+            {
+                "item": "botella de ron havana club reserva",
+                "price": 5000.0,
+                "description": []
+            },
+            {
+                "item": "whisky chivas regal 12 años (4.5l)",
+                "price": 125440.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural cool heaven",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "energizante tigon drink",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "limonada frape",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 580.0,
+                "description": []
+            },
+            {
+                "item": "malta optimal",
+                "price": 370.0,
+                "description": []
+            },
+            {
+                "item": "refresco naranja",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco de limón",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco cola",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco pepsi",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "café bombom",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "café cortadito",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "café express",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "jugo la estancia",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cubetazo la lola",
+                "price": 4200.0,
+                "description": []
+            }
+        ]
+    }
+}

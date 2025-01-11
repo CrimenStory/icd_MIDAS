@@ -1,0 +1,140 @@
+{
+    "ID": 325,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.135420733511385,
+                "lng": -82.37831753600521
+            }
+        }
+    },
+    "name": "Infanta 560",
+    "type_cuisine": [
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera (300g)",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fajas de pollo (300g)",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana (250g)",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana (300g)",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza queso gouda (250g)",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "pizza familiar napolitana (500g)",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "pizza familiar hawaiana (600g)",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza familiar queso gouda (500g)",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti (470g)",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "spaghetti queso gouda (470g)",
+                "price": 420,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

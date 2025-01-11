@@ -1,0 +1,163 @@
+{
+    "ID": 401,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "58050408",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.10580877950669,
+                "lng": -82.38890539182955
+            }
+        }
+    },
+    "name": "El Batazo",
+    "type_cuisine": [
+        "pizzas",
+        "hamburguesas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.5,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo",
+        "zelle"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa strike",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa doble play",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "hamburguesa homerun",
+                "price": 1300,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 930,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 930,
+                "description": []
+            },
+            {
+                "item": "pizza de hawaiana",
+                "price": 1130,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pizza de ají",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pizza de atún",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "pizza de aceitunas",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pizza de peperoni",
+                "price": 1050,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "espaguetis de jamón",
+                "price": 780,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

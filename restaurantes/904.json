@@ -1,0 +1,594 @@
+{
+    "ID": 904,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "77860080"
+            },
+            "map": {
+                "lat": 23.142946607469362,
+                "lng": -82.3545654068682
+            }
+        }
+    },
+    "name": "Café Fortuna Joe",
+    "type_cuisine": [
+        "criolla",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "brusquetas mixtas",
+                "price": 860,
+                "description": []
+            },
+            {
+                "item": "tamal en sarten con ropa vieja de cerdo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "croquetas de la casa",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "ensalada fria",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "picadera dona margot",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de jamon y queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 880,
+                "description": []
+            },
+            {
+                "item": "tacos de cordero",
+                "price": 880,
+                "description": []
+            },
+            {
+                "item": "tacos de atun y mayonesa",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "picadera fortuna",
+                "price": 4600,
+                "description": []
+            },
+            {
+                "item": "ensalada de vegetales de estacion",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "ensalada cesar",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bocadito de jamon",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "bocadito de queso",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "bocadito de jamon y queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "bocadito de pollo y queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "bocadito de atun",
+                "price": 680,
+                "description": []
+            },
+            {
+                "item": "pan con lechon",
+                "price": 680,
+                "description": []
+            },
+            {
+                "item": "pan pirata gay",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fajitas de pollo salteadas con vegetales",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pollos en aroma y sabor",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo frita",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo vestidas de jamon y queso",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "brochetas de cerdo y chorizo",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "chorizo parrillero",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "delirio de cordero",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "cordero al vino tinto",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 980,
+                "description": []
+            },
+            {
+                "item": "pizza fortuna",
+                "price": 1700,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "limonada ginger pl",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "copa de helado",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "flan",
+                "price": 400,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "ponche de frutas del dia",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "michelada / cerveza nacional",
+                "price": 1680,
+                "description": []
+            },
+            {
+                "item": "michelada / cerveza importada",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "servicio de michelada",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "6 cervezas imp + 1 pizza de queso",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "6 cervezas nac + 1 pizza de queso",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "baby boom",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "daiquiri a la fruta",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "screwdriver",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "calpiroska",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "mojito zombie",
+                "price": 4650,
+                "description": []
+            },
+            {
+                "item": "blue lagoon",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 4500,
+                "description": []
+            },
+            {
+                "item": "gozadera en la playa",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "calpirisima",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tom collins",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "tequila sunrise",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "san francisco (sin alcohol)",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "san francisco de noche",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "mimosa",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "cuba bella",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "aperol spritz",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "londres 1922",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "negroni",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "martini",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 2550,
+                "description": []
+            },
+            {
+                "item": "mexicano molesto",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "la casa vodkasol",
+                "price": 4500,
+                "description": []
+            },
+            {
+                "item": "+0",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cafe carajillo",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "agua gaseada",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 580,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "limonada natural o frappe",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "limonada tuty (con agua gaseada)",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "limonada con hierbabuena",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "frapuchino",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cafe sorpresa",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cafe megasorpresa",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "cafe bola",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "baileys coffee con hielo",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cafe bombon",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "cafe fortuna",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "chocolate fortuna",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cafe expreso",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "cafe americano",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "cafe cortado",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cafe escoces",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "cafe con leche",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "capuchino",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "affogato",
+                "price": 380,
+                "description": []
+            }
+        ]
+    }
+}

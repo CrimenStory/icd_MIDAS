@@ -1,0 +1,333 @@
+{
+    "ID": 108,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": "6472532",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.047950931481648,
+                "lng": -82.33275900675858
+            }
+        }
+    },
+    "name": "Los Caneyes",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo empanadas",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo empanadas",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "eperlan de pescado",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "masas de cangrejo con tostones",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "milanesa de res con papas fritas",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res c/ queso gratinado y papas fritas",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "hamburguesas de salmón c/ queso gratinado y tostones",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "filete de pescado grille",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "filete de pescado empanado",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "filete de pescado monte toro",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "filete de pescado caney",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "filete de pescado \"los caneyes\" (filete con camarones y queso gratinado)",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "masas de cangrejo en salsa de tomate",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "salmón rociado en salsa de tomate",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "enchilado de camarones",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "camarones rebozados",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado deshuesado",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo frito",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo con jamón, chorizo y queso",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "boucht de cerdo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "fajitas salteadas",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "fajitas empanadas",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo empanada",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo con jamón y queso",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "gordon blue",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo rellena con camarones y queso",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "suprema \"los caneyes\" (camarones y queso gratinado)",
+                "price": 2300,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana con queso gouda",
+                "price": 1300,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaguettis napolitano",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "tarta con ganache de chocolate",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pote de helado gustó (1 litro)",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cervezas",
+                "price": 330.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco cola y limón",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refresco de mate",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "agua mineral embotellada",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "latas de jugo",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "bebida energizante",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "café",
+                "price": 100.0,
+                "description": []
+            }
+        ]
+    }
+}

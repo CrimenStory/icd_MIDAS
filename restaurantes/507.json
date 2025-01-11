@@ -1,0 +1,234 @@
+{
+    "ID": 507,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": "63510685",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.044555828697288,
+                "lng": -82.24838136423335
+            }
+        }
+    },
+    "name": "El Desafío",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.6,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones campesinos",
+                "price": 435,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 985,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 575,
+                "description": []
+            },
+            {
+                "item": "coctel de langosta",
+                "price": 1135,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "filete de pescado empanado",
+                "price": 1995,
+                "description": []
+            },
+            {
+                "item": "masa frita",
+                "price": 1885,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1885,
+                "description": []
+            },
+            {
+                "item": "lomo deshuesado",
+                "price": 1885,
+                "description": []
+            },
+            {
+                "item": "pierna ahumada",
+                "price": 1945,
+                "description": []
+            },
+            {
+                "item": "filete de cerdo",
+                "price": 2995,
+                "description": []
+            },
+            {
+                "item": "costilla",
+                "price": 1935,
+                "description": []
+            },
+            {
+                "item": "langosta",
+                "price": 1985,
+                "description": []
+            },
+            {
+                "item": "pechuga a la brasa",
+                "price": 1535,
+                "description": []
+            },
+            {
+                "item": "enchilado de langosta",
+                "price": 2235,
+                "description": []
+            },
+            {
+                "item": "langoston",
+                "price": 2685,
+                "description": []
+            },
+            {
+                "item": "lomo al carbon",
+                "price": 4440,
+                "description": []
+            },
+            {
+                "item": "chuleta",
+                "price": 1935,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "dulce de leche",
+                "price": 795,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza heineken",
+                "price": 325,
+                "description": []
+            },
+            {
+                "item": "cerveza unlager",
+                "price": 295,
+                "description": []
+            },
+            {
+                "item": "cerveza hollandia",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "cerveza ashe",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "cerveza kiss",
+                "price": 265,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 225,
+                "description": []
+            },
+            {
+                "item": "refresco de cola",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "refresco de limon",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "malta morena",
+                "price": 325,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 295,
+                "description": []
+            },
+            {
+                "item": "yogurt de sabor",
+                "price": 225,
+                "description": []
+            }
+        ]
+    }
+}

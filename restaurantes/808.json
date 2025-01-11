@@ -1,0 +1,379 @@
+{
+    "ID": 808,
+    "locality": {
+        "mun": "Habana del Este",
+        "locator": {
+            "phones": {
+                "mobile": "51566616",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.16957153159522,
+                "lng": -82.13720147859289
+            }
+        }
+    },
+    "name": "Kopas",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.3,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "whatsapp",
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tacos de camaron",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "tacos de res",
+                "price": 995,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 975,
+                "description": []
+            },
+            {
+                "item": "tacos de langosta",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "tacos de pescado",
+                "price": 975,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de camaron",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de jamon y queso",
+                "price": 975,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "brochetas de langosta",
+                "price": 2350,
+                "description": []
+            },
+            {
+                "item": "brochetas de camaron",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "brochetas de cerdo",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "brochetas de pollo",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "langosta a las brasas",
+                "price": 2350,
+                "description": []
+            },
+            {
+                "item": "lomo de pescado a las brasas",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "mar y tierra",
+                "price": 3650,
+                "description": []
+            },
+            {
+                "item": "rueda de albacora a las brasas",
+                "price": 1775,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo empanadas",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo grille",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo en salsa de jengibre y ajonjoli",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pollo al limon y al oregano",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "pollo a la parmesana",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "pollo al ajo y vino blanco",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo a la pina y miel",
+                "price": 1275,
+                "description": []
+            },
+            {
+                "item": "pollo princesa",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo a la pina y miel",
+                "price": 1875,
+                "description": []
+            },
+            {
+                "item": "uruguayo de cerdo",
+                "price": 2250,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo princesa",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo al estilo kopas",
+                "price": 1875,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo ahumado con salsa barbecue",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo ahumado con salsa agridulce",
+                "price": 1875,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo ahumado encebollado",
+                "price": 1775,
+                "description": []
+            },
+            {
+                "item": "bistec de res encebollado",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "fajitas de res",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "mignon salsa del chef",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1575,
+                "description": []
+            },
+            {
+                "item": "uruguayo de res",
+                "price": 2250,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "filete a la deutch",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "filete de pescado princesa",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "filete de pescado en salsa de limon",
+                "price": 1975,
+                "description": []
+            },
+            {
+                "item": "langosta enchilada",
+                "price": 2475,
+                "description": []
+            },
+            {
+                "item": "langosta grille",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "camaron grille",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "camaron empanado",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "langosta al ajillo",
+                "price": 2250,
+                "description": []
+            },
+            {
+                "item": "filete de pescado costa sur",
+                "price": 2650,
+                "description": []
+            },
+            {
+                "item": "dados de pescado al ajillo",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "camaron tropical",
+                "price": 3250,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "vodka ciroc red berry",
+                "price": 8900,
+                "description": []
+            },
+            {
+                "item": "whisky jameson",
+                "price": 8500,
+                "description": []
+            },
+            {
+                "item": "whisky j&b rare",
+                "price": 5900,
+                "description": []
+            },
+            {
+                "item": "whisky elliot hall",
+                "price": 4900,
+                "description": []
+            },
+            {
+                "item": "whisky chanceler",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "whisky ballantines",
+                "price": 8500,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

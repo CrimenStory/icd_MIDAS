@@ -1,0 +1,166 @@
+{
+    "ID": 329,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13385424944992,
+                "lng": -82.36160649338726
+            }
+        }
+    },
+    "name": "El pórtico",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo"
+    ],
+    "service_details": [
+        "vip"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "pollo chiflado",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "chuleton",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza dispensada (jarra)",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "cerveza dispensada (termo)",
+                "price": 2000.0,
+                "description": []
+            },
+            {
+                "item": "cerveza parranda",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cerveza hollandia",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cacique",
+                "price": 240.0,
+                "description": []
+            },
+            {
+                "item": "cerveza unlaguer",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza la fria",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "cerveza almara",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero",
+                "price": 240.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal",
+                "price": 250.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

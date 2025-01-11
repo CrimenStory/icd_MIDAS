@@ -1,0 +1,484 @@
+{
+    "ID": 602,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "52906422",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.10190135728949,
+                "lng": -82.37499586631485
+            }
+        }
+    },
+    "name": "Lacret 559",
+    "type_cuisine": [
+        "cocteles",
+        "criolla",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.3,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": 4.0
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio",
+        "música grabada",
+        "área de fumadores"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "frituras de malanga",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "croquetas 559",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "croquetón de res",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "eperlán de pescado",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "carpaccio de res",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "carpaccio de langosta",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "carpaccio de pulpo",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "ceviche",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "piquillos rellenos del mar",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "piquillos rellenos de ropa vieja",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "papas bravas",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "brusquetas a la parmesana",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "totopitos al ajo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "totopitos picantes ",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "tacos de res",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "tacos de mar",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de res",
+                "price": 2025,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo grillé",
+                "price": 1975,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo a la gordon blue",
+                "price": 2175,
+                "description": []
+            },
+            {
+                "item": "pescado grillé",
+                "price": 1975,
+                "description": []
+            },
+            {
+                "item": "pescado enchilado",
+                "price": 1975,
+                "description": []
+            },
+            {
+                "item": "pescado canciller",
+                "price": 2175,
+                "description": []
+            },
+            {
+                "item": "langosta al gusto",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "camarones al gusto",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 2175,
+                "description": []
+            },
+            {
+                "item": "lomo importado",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "enchilado de cangrado",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza queso azul",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana",
+                "price": 1360,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza parmesana",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pizza carbonara",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "pizza hawaina",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pizza cantábrica",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pizza marina",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pizza mediterránea",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pizza mixta lacret",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pizza con bacon",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza de pimiento",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pizza con vegetales",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza de champiñón",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza de atún",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "pizza de aceituna",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza con jamón serrano",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pizza con jamón ibérico",
+                "price": 3400,
+                "description": []
+            },
+            {
+                "item": "pizza con pepperoni",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza ranchera",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "sangría",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "tinto de verano",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "calimocho",
+                "price": 560.0,
+                "description": []
+            },
+            {
+                "item": "screwdriver",
+                "price": 470.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 570.0,
+                "description": []
+            },
+            {
+                "item": "caipirissima",
+                "price": 570.0,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 470.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 470.0,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 580.0,
+                "description": []
+            },
+            {
+                "item": "barbados surprise",
+                "price": 580.0,
+                "description": []
+            },
+            {
+                "item": "whiscola",
+                "price": 460.0,
+                "description": []
+            },
+            {
+                "item": "old fashioned",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "gin tobic",
+                "price": 610.0,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 580.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "limonada",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 430.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 430.0,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 300.0,
+                "description": []
+            }
+        ]
+    }
+}

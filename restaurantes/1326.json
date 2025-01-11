@@ -1,0 +1,328 @@
+{
+    "ID": 1326,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": "53239479",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.12739793607911,
+                "lng": -82.3996550067848
+            }
+        }
+    },
+    "name": "Sport Bar",
+    "type_cuisine": [
+        "americana",
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.8,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "waffles",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "brusquetas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "croquetas del día",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "picadera 23 y 12",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "emparedado de atún",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "emparedado de pollo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "emparedado de lechón",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "emparedado de jamón y queso",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "emparedado de 23 y 12",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "hamburguesa clásica de cerdo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo, 3 unidades",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo, 8 unidades",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo, 3 unidades",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "tacos de camarón, 3 unidades",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza nápoles",
+                "price": 1250,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pasta boloñesa",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pasta pesto",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pasta nápoles",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pasta aljillo",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "batido de frutas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 600,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal extra",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero max",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "cerveza dispensada",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua nacional",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "agua importada",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "refresco nacional",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "limonada natural",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "limonada con hierba buena",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "jugo natural",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "café espresso",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "café espresso con coffemate",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "café cortadito",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "café bombón",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "café cappuccino",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "café affogato",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "café frappuccino",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "café frappuccino 23 y 12",
+                "price": 650,
+                "description": []
+            }
+        ]
+    }
+}

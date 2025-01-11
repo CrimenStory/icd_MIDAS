@@ -1,0 +1,185 @@
+{
+    "ID": 403,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "54031349",
+                "landline": "78780156"
+            },
+            "map": {
+                "lat": 23.120895150022783,
+                "lng": -82.37362585134757
+            }
+        }
+    },
+    "name": "Jorgito's Pizzas",
+    "type_cuisine": [
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 4.0
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "hamburguesa jamón y queso",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "hamburguesa onbazar",
+                "price": 2700,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza de hawaiana",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "espaguetis de jamón",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "espaguetis de chorizo",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "piña colada (alcohol)",
+                "price": 750.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "café expreso",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "café cortado",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "capuchino",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "café bombón",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "limonada frapé",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 500.0,
+                "description": []
+            }
+        ]
+    }
+}

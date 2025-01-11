@@ -1,0 +1,265 @@
+{
+    "ID": 909,
+    "locality": {
+        "mun": "Habana Vieja",
+        "locator": {
+            "phones": {
+                "mobile": "53616001",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.140326626649397,
+                "lng": -82.35251446299252
+            }
+        }
+    },
+    "name": "Mythos",
+    "type_cuisine": [
+        "italiana",
+        "griega"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "whatsapp",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "hummus de garbanzo",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "melitzanosalata",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "tzatziki",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "papas fritas con queso feta y oregano",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "tyropitakias",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "aceitunas marinadas con queso feta",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "griego pobre",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "saganaki",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "souvlaki de cerdo",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "souvlaki de pechuga de pollo",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "souvlaki de res",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "souvlaki vegano",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "souvlaki de queso feta",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pastitsio",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "imam",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "saganaki de langosta o camaron",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "saganaki de frutos del mar",
+                "price": 4000,
+                "description": []
+            },
+            {
+                "item": "risotto de yogurt griego",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "risotto de pulpo",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "risotto de frutos del mar",
+                "price": 4100,
+                "description": []
+            },
+            {
+                "item": "pulpo grille",
+                "price": 4200,
+                "description": []
+            },
+            {
+                "item": "solomillo de cerdo en salsa de limon griega",
+                "price": 3500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "pasta mediterranea",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pasta de camaron al anis",
+                "price": 3200,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "tarta de yogurt griego con reduccion de vino tinto",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "demeter",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "afrodita",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "persefone",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "hades",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "dionisio",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "poseidon",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "ares",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "apolo",
+                "price": 2300,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "freddo expresso",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "freddo capucchino",
+                "price": 650,
+                "description": []
+            }
+        ]
+    }
+}

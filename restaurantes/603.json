@@ -1,0 +1,178 @@
+{
+    "ID": 603,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "63182745",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.089713179451753,
+                "lng": -82.37605099342609
+            }
+        }
+    },
+    "name": "Crispy Chicken",
+    "type_cuisine": [
+        "americana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "whatsapp",
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "mini hot dog",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "chips de boniato",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "flamenquin",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "san jacobo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "entremés de jamón y queso",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "picadera de la casa",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "sandwich de pollo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "nuggets de pollo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado (sin hueso)",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pollo relleno (jamón y queso)",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "vaca negra",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "jugo natural",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,546 @@
+{
+    "ID": 201,
+    "locality": {
+        "mun": "Boyeros",
+        "locator": {
+            "phones": {
+                "mobile": "53857447",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.02223192051713,
+                "lng": -82.39913129234107
+            }
+        }
+    },
+    "name": "Cafe Tilin",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de la casa",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de jamon y queso",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de atun",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de ropa vieja",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "picadera tilin",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa clasica",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "hamburguesa bar",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "hamburguesa mexicana",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "hamburguesa tilin",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo americano",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "hamburguesa la cubana",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "hamburguesa super clasica",
+                "price": 1750,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de cerdo encebollado",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de cerdo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo salteadas con vegetales",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "brochetas mixtas al carbon",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "cordon bleu",
+                "price": 3050,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 3250,
+                "description": []
+            },
+            {
+                "item": "milanesa a la napolitana",
+                "price": 3300,
+                "description": []
+            },
+            {
+                "item": "crema de malanga",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza de atun",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "pizza tilin",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana de 21cm",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "spaghetti de jamon",
+                "price": 1700,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "postre del dia",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "tarta helada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "flan de caramelo",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "copa de helado",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "copa lolita",
+                "price": 650,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "mojito de fruta",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "daiquiri de fruta",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "caipirinha",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "caipirisima",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "screwdriver",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "cubalibre",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "tequila",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "san francisco",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "blue lagon",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "coctel de la casa \"un tilin\"",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "copa de vino frontera",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "copa de vino casillero del diablo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "linea chanceler",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "linea jaggermeister",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "linea red label",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "linea ballentines finest",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "linea ballentines 10 años",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "linea chivas regal 12 años",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "linea jack daniels",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "botella de vino frontera",
+                "price": 4500,
+                "description": []
+            },
+            {
+                "item": "botella de vino casillero del diablo",
+                "price": 8000,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural nacional",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "agua natural importada",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "malta importada",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "jugo de frutas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "cafe expresso",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "cafe americano",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "cafe cortado",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cafe cappuccino",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "frapuchino",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "cafe tilin",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "cafe tolon",
+                "price": 750,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,254 @@
+{
+    "ID": 303,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "52701451",
+                "landline": "78737259"
+            },
+            "map": {
+                "lat": 23.1401557660662,
+                "lng": -82.37586279184762
+            }
+        }
+    },
+    "name": "Tu Tiempo",
+    "type_cuisine": [
+        "criolla",
+        "mexicana",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.6,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio",
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "combo 17",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 18",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 19",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "combo 20",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "combo 21",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "combo 22",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "combo 23",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "combo 24",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 25",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "combo 26(tu tiempo)",
+                "price": 5000,
+                "description": []
+            },
+            {
+                "item": "fricase de pollo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "bistec de res",
+                "price": 3300,
+                "description": []
+            },
+            {
+                "item": "arroz con pollo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 1",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "combo 2",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "combo 3",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 4",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 5",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "combo 6",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "combo 7",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "combo 8",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 9",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 10",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "combo 11",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 12",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 13",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 14",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 15",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "combo 16",
+                "price": 2300,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "arroz con leche",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "coctel de frutas",
+                "price": 150,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "batido de helado",
+                "price": 400.0,
+                "description": []
+            }
+        ]
+    }
+}

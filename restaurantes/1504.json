@@ -1,0 +1,122 @@
+{
+    "ID": 1504,
+    "locality": {
+        "mun": "San Miguel del Padrón",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.078091931411176,
+                "lng": -82.31932677141849
+            }
+        }
+    },
+    "name": "Don Timbon",
+    "type_cuisine": [
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.8,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "pan con bistec",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "hamburguesa sencilla",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "arroz salteado",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 160,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasaña",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "espaguetti",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

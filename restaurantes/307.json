@@ -1,0 +1,397 @@
+{
+    "ID": 307,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "50122113",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.139644726614794,
+                "lng": -82.3755633828391
+            }
+        }
+    },
+    "name": "kasatacos",
+    "type_cuisine": [
+        "cocteles",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "tuesday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "wednesday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "thursday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "friday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "saturday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        },
+        "sunday": {
+            "opening": "12:30",
+            "closing": "00:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "vaca frita",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "bistec encebollado de res",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "rollo de res",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "camaron grillé",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "camaron al ajillo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "camaron enchilado",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "pescado grillé",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pescado al ajillo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pescado enchilado",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "john ville",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "langosta grillé",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "langosta al ajillo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "enchilado de langosta",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "termidor de langosta",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "arroz blanco",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "arroz moro",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "vegetales",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "vianda frita",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "flan",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "postre de la casa",
+                "price": 250,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cerveza heineken",
+                "price": 540.0,
+                "description": []
+            },
+            {
+                "item": "cerveza krombacher",
+                "price": 370.0,
+                "description": []
+            },
+            {
+                "item": "cerveza bb",
+                "price": 370.0,
+                "description": []
+            },
+            {
+                "item": "black tears aguardiente",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "black tears super dry",
+                "price": 260.0,
+                "description": []
+            },
+            {
+                "item": "black tears dry spiced",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "hab club añejo reserva",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "hab club ritual",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "ron santiago 7 años",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "ron santiago 12 años",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "pacto navio",
+                "price": 950.0,
+                "description": []
+            },
+            {
+                "item": "olmeca blanco",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "olmeca reposado",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "dark chocolate",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "viuda de romero",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "johnnie walker red label",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "black & white whisky",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "brandy torre 10",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "brandy torre 15",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "ginebra",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "vermouth blanco",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "vermouth rosso",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "vodka",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural 1.5 l",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 500 ml",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "limonada natural",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "limonada ciarette",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refrescos pepsy y 7up",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "limonada frescura",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "refresco santa",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "café express",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "café cortado",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "café con leche",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "café capuccino",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "café frappuccino",
+                "price": 350.0,
+                "description": []
+            }
+        ]
+    }
+}

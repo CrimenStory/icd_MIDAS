@@ -1,0 +1,276 @@
+{
+    "ID": 706,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "77947261"
+            },
+            "map": {
+                "lat": 23.122304238305055,
+                "lng": -82.2959622459654
+            }
+        }
+    },
+    "name": "Vale & Vane",
+    "type_cuisine": [
+        "italiana",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.8,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 4.3
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "chuleta de cerdo",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "bistec cerdo grille",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bistec encebollado",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "costilla cerdo",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "uruguayo",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "bistec princesa",
+                "price": 1720,
+                "description": []
+            },
+            {
+                "item": "garbanzo frito",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "suprema grille",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "bistec princesa",
+                "price": 1920,
+                "description": []
+            },
+            {
+                "item": "suprema encebollada",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "filete pescado grille",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "camarón grille",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "enchilado camarón",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "mar y tierra",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza napolitana",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pizza familiar",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espagueti napolitano",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "espagueti con jamón",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "espagueti con chorizo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "espagueti doble queso",
+                "price": 920,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal (lata)",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "cerveza cristal (botella)",
+                "price": 380.0,
+                "description": []
+            },
+            {
+                "item": "cerveza hollandia",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cerveza wild hill",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "tigon",
+                "price": 280.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "refresco lata",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "malta hyper malta",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "malta bucanero",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "jugo natural (cajita)",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "jugo natural (lata)",
+                "price": 270.0,
+                "description": []
+            }
+        ]
+    }
+}

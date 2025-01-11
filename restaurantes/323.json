@@ -1,0 +1,367 @@
+{
+    "ID": 323,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "52975700",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13868395778652,
+                "lng": -82.37729863616106
+            }
+        }
+    },
+    "name": "El cuarto de Tula",
+    "type_cuisine": [
+        "criolla",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.6,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "usd",
+        "btc"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "desayuno completo - full breakfast",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "desayuno ligero - light breakfast",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "croquetas de espinaca",
+                "price": 505,
+                "description": []
+            },
+            {
+                "item": "croquetas de jamón serrano",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "croquetas de pescado",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "adobo de pescado",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "adobo de pollo",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "tabla de jamón serrano (2pax)",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "berenjena a la crema con queso parmesano",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "ceviche de pescado al estilo mediterráneo",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "tartar de res",
+                "price": 4500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz negro (pulpo y camarones)",
+                "price": 5800,
+                "description": []
+            },
+            {
+                "item": "rissotto de pollo y vegetales",
+                "price": 3400,
+                "description": []
+            },
+            {
+                "item": "rissotto de camarones con champiñón y naranja",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "rissotto de hongos porcini",
+                "price": 4200,
+                "description": []
+            },
+            {
+                "item": "ropa vieja con plátano frito",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "picadillo a la cubana",
+                "price": 3300,
+                "description": []
+            },
+            {
+                "item": "paella marinera (2 pax)",
+                "price": 7700,
+                "description": []
+            },
+            {
+                "item": "paella mar y tierra (2 pax)",
+                "price": 7700,
+                "description": []
+            },
+            {
+                "item": "pollo grillé",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pollo en crema de coco y curry",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "fajas de pollo con bacon, hongos y frutos secos",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "cerdo asado a la abuela",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "pescado grillé",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "pescado con toque orgánico",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "pescado con aroma del trópico",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "mechado de salomillo de cerdo",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "solomillo de res al orégano en salsa de champiñón y queso azul",
+                "price": 6500,
+                "description": []
+            },
+            {
+                "item": "bistec de res en salsa chimichurri y vegetales salteados",
+                "price": 8000,
+                "description": []
+            },
+            {
+                "item": "fajas de res al sésamo",
+                "price": 7000,
+                "description": []
+            },
+            {
+                "item": "cordero a las cinco pimientas",
+                "price": 5000,
+                "description": []
+            },
+            {
+                "item": "camarón al ajo y ron cubano",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "camarón con crema de jengibre y sésamo",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "pescador",
+                "price": 6000,
+                "description": []
+            },
+            {
+                "item": "tacos de punta de res ",
+                "price": 7200,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 3300,
+                "description": []
+            },
+            {
+                "item": "tacos ropa vieja",
+                "price": 4250,
+                "description": []
+            },
+            {
+                "item": "calamar a la romana",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "ensalada de aguacate con camarones",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "carpaccio de tomate con serrano",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "filete de pescado con salsa de alcaparras y limón",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "filete de pescado en salsa de perejil, almejas y vino blanco",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "filete de pescado con arroz negros",
+                "price": 4300,
+                "description": []
+            },
+            {
+                "item": "filete de pescado en salsa de kahlua y coco",
+                "price": 5500,
+                "description": []
+            },
+            {
+                "item": "caldereta de mariscos",
+                "price": 5400,
+                "description": []
+            },
+            {
+                "item": "langosta tropical",
+                "price": 4500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "pasta fungi",
+                "price": 4200,
+                "description": []
+            },
+            {
+                "item": "al pesto",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "carbonara",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "bolognesa",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "amatriciana",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "puttanesca",
+                "price": 3000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "cheesecake",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "helado de frutas",
+                "price": 650,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

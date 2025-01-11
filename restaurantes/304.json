@@ -1,0 +1,436 @@
+{
+    "ID": 304,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "50985368",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.141509790555908,
+                "lng": -82.374230422513
+            }
+        }
+    },
+    "name": "El Bleko",
+    "type_cuisine": [
+        "pizzas",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "tuesday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "wednesday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "thursday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "friday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "saturday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        },
+        "sunday": {
+            "opening": "13:00",
+            "closing": "02:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.3,
+        "qualification_tripadvisor": 3.5,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "frituras de malanga",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "croquetas mixtas",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "palitos de queso",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo ahumado",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "nachos de salsa de queso",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "nachos con pollo a la barbacoa",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "alitas de pollo a la barbacoa",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "crostini mixto",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "torrejas saladas con cerdo ahumado",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "quesadillas de jamón pierna",
+                "price": 1650,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec a la plancha",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "fajita de pechuga de pollo",
+                "price": 2500,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1450,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "caipirisima",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "canchanchara",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "old fashion",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "laguna azul",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "tr reserva",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "tr barceló dorado",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "tr barceló añejo",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "tr ritual",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "tr añejo especial",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "tr vat 69",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tr black white",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "tr jw black",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "tr jw red",
+                "price": 1100.0,
+                "description": []
+            },
+            {
+                "item": "tr ballantines",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "tr doble black",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "gin master",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "gin master pink",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "gin tanqueray",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "gin beefarer",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "gin johpur reserva",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tr ciroc",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "tr ciroc coco",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "tr finlandia",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "czech driver",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "tequila de la casa",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "licores: bailey's",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "licores: jagermeister",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "licores: jaeger",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "cristal lata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "bucanero lata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "cristal botella",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "bucanero botella",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "hollandia",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "unlaguer",
+                "price": 330.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "santa cola",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "santa limon",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "santa naranja",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cafe expreso",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cafe capuccino",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cafe cortadito",
+                "price": 300.0,
+                "description": []
+            }
+        ]
+    }
+}

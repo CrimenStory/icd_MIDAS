@@ -1,0 +1,222 @@
+{
+    "ID": 1330,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.142049436581914,
+                "lng": -82.39508647982898
+            }
+        }
+    },
+    "name": "Hábitat",
+    "type_cuisine": [
+        "americana",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "guarderia"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "empanadas margaritas 4u",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa sencilla de pollo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "hamburguesa sencilla de cerdo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "hamburguesa sencilla de res",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "hamburguesa mini de pollo",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "hamburguesa mini de cerdo",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "hamburguesa mini de res",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "cheese burguer de pollo",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "cheese burguer de cerdo",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "cheese burguer de res",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "hamburguesota de pollo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "hamburguesota de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "hamburguesota de res",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "pan con lechon",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "mini lechon",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "sandwich jamon y queso",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "sandwich mini j y q",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "helados",
+                "price": 250,
+                "description": []
+            },
+            {
+                " item": "mantequilla de maní",
+                "price": 400,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua (500ml)",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "pepsi",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "7up",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "jugo de caja",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "expresso",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 180,
+                "description": []
+            }
+        ]
+    }
+}

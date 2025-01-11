@@ -1,0 +1,327 @@
+{
+    "ID": 1101,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "77279147"
+            },
+            "map": {
+                "lat": 23.09481372818826,
+                "lng": -82.41919746499825
+            }
+        }
+    },
+    "name": "Bar Tropicana",
+    "type_cuisine": [
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cervezas nacionales o importadas",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza dispensada",
+                "price": 160.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino de la casa",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "havana club 3 años",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "especial havana club",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "havana club 7 años",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "havana club pacto navio",
+                "price": 730.0,
+                "description": []
+            },
+            {
+                "item": "havana club seleccion de maestros",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "aguardiente gobernador",
+                "price": 14300.0,
+                "description": []
+            },
+            {
+                "item": "chiva regal 12 años",
+                "price": 995.0,
+                "description": []
+            },
+            {
+                "item": "ballentinees finest",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "j&b",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "johnnie walker etiqueta roja",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "jameson",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "vat",
+                "price": 580.0,
+                "description": []
+            },
+            {
+                "item": "tequila 3 sombreros",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "vodka igor",
+                "price": 395.0,
+                "description": []
+            },
+            {
+                "item": "brandy napoleón",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (cacao)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (café)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (menta)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (marrasquino)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (triple sec)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (curacao azul)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "cremas y licores (piña)",
+                "price": 85.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri natural",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri frapeado natural",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 730.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri mulata",
+                "price": 620.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri saborizado",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "gin cola",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 785.0,
+                "description": []
+            },
+            {
+                "item": "rom tonic",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "vodka cola",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "vodka tónica",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "whisky cola",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tropicana special",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "cocteles internacionales",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 450.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "aguas nacionales",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "agua saborizada",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 60.0,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas en conserva",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas naturales",
+                "price": 100.0,
+                "description": []
+            }
+        ]
+    }
+}

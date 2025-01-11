@@ -1,0 +1,177 @@
+{
+    "ID": 1502,
+    "locality": {
+        "mun": "San Miguel del Padrón",
+        "locator": {
+            "phones": {
+                "mobile": "50800611",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.079664361938153,
+                "lng": -82.31965649386221
+            }
+        }
+    },
+    "name": "Café Toscano",
+    "type_cuisine": [
+        "cafe"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": null,
+    "social_networks": [
+        "instagram",
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transferencia"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones rellenos",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 150,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa sencilla",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con queso",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "hamburguesa doble con queso",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pollo especial",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 170,
+                "description": []
+            },
+            {
+                "item": "pizza doble de queso",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 290,
+                "description": []
+            },
+            {
+                "item": "pizza gouda",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pizza cubana",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "pizza grande napolitana",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pizza grande doble de queso",
+                "price": 790,
+                "description": []
+            },
+            {
+                "item": "pizza grande gouda",
+                "price": 940,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetti",
+                "price": 330,
+                "description": []
+            },
+            {
+                "item": "espaguetti con queso gouda",
+                "price": 400,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

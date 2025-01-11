@@ -1,0 +1,688 @@
+{
+    "ID": 313,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13799192742151,
+                "lng": -82.36028647833432
+            }
+        }
+    },
+    "name": "Tonyzz Bar",
+    "type_cuisine": [
+        "india",
+        "cocteles",
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "desayuno",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "croquetas/croquettes",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo/chicken nuggets",
+                "price": 1090,
+                "description": []
+            },
+            {
+                "item": "entremés de jamón y queso",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "empanadas españolas (atún/pollo/queso)",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "papas bravas españolas",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "tacos (pollo o atún)",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "papas fritas/french fries",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "picadera familiar",
+                "price": 2690,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "sándwich c/ jamón",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "sándwich c/ queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "sándwich c/ jamón y queso",
+                "price": 890,
+                "description": []
+            },
+            {
+                "item": "sándwich c/ huevo (frito o tortilla)",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "sándwich c/ atún y mayonesa",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "sándwich tonyzzz",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo/pork schnitzel",
+                "price": 1790,
+                "description": []
+            },
+            {
+                "item": "pollo asado/grilled chicken",
+                "price": 1790,
+                "description": []
+            },
+            {
+                "item": "fricasé de pollo/chicken fricassee",
+                "price": 1790,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1690,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "pollo frito/fried chicken",
+                "price": 1690,
+                "description": []
+            },
+            {
+                "item": "ropa vieja/shredded beef",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "pescado grille/fish grille",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pescado a la cubana",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "camarón enchilado",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "camarón al ajillo/garlic shrimp",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "cangrejo enchilado/enchilado crab",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "veg samosa 2pcs",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "lankan meat roll 2pcs",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "devilled fish",
+                "price": 1390,
+                "description": []
+            },
+            {
+                "item": "chicken tikka",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "traditional chicken curry",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "chicken tikka masala",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "chicken madras",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "butter chicken",
+                "price": 1490,
+                "description": []
+            },
+            {
+                "item": "authentic srilankan lamb curry",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "authentic srilankan fish curry",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "rawan curry",
+                "price": 2190,
+                "description": []
+            },
+            {
+                "item": "crab curry",
+                "price": 2190,
+                "description": []
+            },
+            {
+                "item": "yellow masoor dal lentil",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "aloo potato",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "pumpkin",
+                "price": 590,
+                "description": []
+            },
+            {
+                "item": "sappati rotti",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "veggies combo (egg & rice, salad, popodorn)",
+                "price": 1790,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "jamón",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "champiñones",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "hawaiana",
+                "price": 1390,
+                "description": []
+            },
+            {
+                "item": "atún y cebolla",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "atún",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "4 estaciones",
+                "price": 1590,
+                "description": []
+            },
+            {
+                "item": "jamón y champiñones",
+                "price": 1490,
+                "description": []
+            },
+            {
+                "item": "chorizo",
+                "price": 1350,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "arrabbiata",
+                "price": 890,
+                "description": []
+            },
+            {
+                "item": "jamón",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "carbonara",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "al pesto",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "champiñón",
+                "price": 1290,
+                "description": []
+            },
+            {
+                "item": "bolonesa",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "atún",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "lasaña",
+                "price": 1990,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado (diferentes sabores)",
+                "price": 130,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "cerveza colonia",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 890.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "caipirísima",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 490.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic",
+                "price": 990.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 990.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 1190.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic (beefeter o bombay)",
+                "price": 1390.0,
+                "description": []
+            },
+            {
+                "item": "jack daniel's",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "chivas regal 12 años",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "j.w. double black",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "j.w. black label",
+                "price": 990.0,
+                "description": []
+            },
+            {
+                "item": "j.w. red label",
+                "price": 990.0,
+                "description": []
+            },
+            {
+                "item": "ballantines",
+                "price": 990.0,
+                "description": []
+            },
+            {
+                "item": "clamb campbell",
+                "price": 890.0,
+                "description": []
+            },
+            {
+                "item": "jameson",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "old partner",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino tinto",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino blanco",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "paco navio",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "santiago de cuba 12 años",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "santiago de cuba 8 años",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "black tears",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "ritual",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "habana club 7 años",
+                "price": 790.0,
+                "description": []
+            },
+            {
+                "item": "habana club añejo reserva",
+                "price": 590.0,
+                "description": []
+            },
+            {
+                "item": "habana club especial",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "habana club 3 años",
+                "price": 490.0,
+                "description": []
+            },
+            {
+                "item": "aguardiente",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "olmeca blanco",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "olmeca reposado",
+                "price": 640.0,
+                "description": []
+            },
+            {
+                "item": "josé cuervo",
+                "price": 740.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "café expreso",
+                "price": 290.0,
+                "description": []
+            },
+            {
+                "item": "café cortado",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "café con leche",
+                "price": 490.0,
+                "description": []
+            },
+            {
+                "item": "cappuccino",
+                "price": 490.0,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 510.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 500ml",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "agua natural 1500ml",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refrescos lata",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco pomo",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco pomo 1500ml",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "tigon",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "red bull",
+                "price": null,
+                "description": []
+            }
+        ]
+    }
+}

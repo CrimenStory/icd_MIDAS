@@ -1,0 +1,182 @@
+{
+    "ID": 506,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76822199"
+            },
+            "map": {
+                "lat": 23.047603170195543,
+                "lng": -82.25536750725202
+            }
+        }
+    },
+    "name": "El Cocal",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": null,
+            "closing": null
+        },
+        "wednesday": {
+            "opening": null,
+            "closing": null
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.4,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador",
+        "guarderia"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "ensalada de atun",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "toston de queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "toston de jamon y queso",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "toston de atun",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "crema aurora",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "crema virginia",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "crema mixta",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "coctel camaron",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "empellas",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "eperlan pechuga",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "eperlan pescado",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "flan",
+                "price": 500,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

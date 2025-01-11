@@ -1,0 +1,188 @@
+{
+    "ID": 302,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "58271438",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.13880856299898,
+                "lng": -82.37737514949882
+            }
+        }
+    },
+    "name": "Tutti Fruti",
+    "type_cuisine": [
+        "criolla",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo",
+        "zelle"
+    ],
+    "service_details": [
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "huevo(tortilla, revuelto, frito) , pan tostado, mermelada, frutas frescas , jugo natural o café",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "sandwich cubano",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "sandwich aguacate",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "mojito",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "mojito tutti frutti",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "daiquirí tutti frutti",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "santiago",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "piñacolada",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "canchánchara",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "caribbean",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "emma",
+                "price": 900.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo natural",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "batidos",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "champola",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "smoothies",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "leche",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "café",
+                "price": 200.0,
+                "description": []
+            }
+        ]
+    }
+}

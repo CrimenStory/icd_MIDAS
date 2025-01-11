@@ -1,0 +1,245 @@
+{
+    "ID": 509,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76822381"
+            },
+            "map": {
+                "lat": 23.044400677473934,
+                "lng": -82.26562109644043
+            }
+        }
+    },
+    "name": "Mi terraza",
+    "type_cuisine": [
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "a domicilio",
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "crema de queso",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "crema virginia",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pica pica mi terraza",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "tostones de jamon y queso",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tostones de atun",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo (con mayonesa)",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "ensalada de pollo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga (con miel)",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso (con miel)",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "croquetas (con mayonesa)",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "chicharritas",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "papas prefritas",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "sandwich de queso",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamon",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamon y queso",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "sandwich de atun",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "sandwich mi terraza",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza mi terraza",
+                "price": 1800,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitanos",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "spaghetti de jamon",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "spaghetti de atun",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "spaghetti a la carbonara",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "spaghetti doble queso",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "canelones",
+                "price": 1500,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "chelada",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "malteada",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "batidos (mango, fruta bomba o guayaba)",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "batidos de helado (fresa, chocolate, helado con galleta, mozcatel)",
+                "price": 600,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "ID": 404,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "54494741",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.121985720348754,
+                "lng": -82.3738952629934
+            }
+        }
+    },
+    "name": "La Barrita Onbazar",
+    "type_cuisine": [
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "01:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "01:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "01:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "parqueo",
+        "a domicilio",
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones rellenos",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "jamón, queso y aceitunas",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "mixta",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "brochetas",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 1650,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "hamburguesa jamón y queso",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "hamburguesa onbazar",
+                "price": 2700,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "pizza de chorizo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza de hawaiana",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "espaguetis de jamón",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "espaguetis de chorizo",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "café expreso",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "café cortado",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "capuchino",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "café bombón",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "piña colada (alcohol)",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "limonada frapé",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 500.0,
+                "description": []
+            }
+        ]
+    }
+}

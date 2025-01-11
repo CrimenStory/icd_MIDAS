@@ -1,0 +1,237 @@
+{
+    "ID": 1109,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.09846432898506,
+                "lng": -82.42637763877254
+            }
+        }
+    },
+    "name": "Tropikana",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "euro",
+        "usd"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "crema aurora",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "crema de jamon",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "consome",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "picadera de la casa",
+                "price": 100,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "super hamburguesa",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "pan con jamon y queso",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo a la milanesa",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pollo a la milanesa",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "canciller",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "pescado entero",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "rueda de atun",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "camarones",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "filete de pescado",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso gouda",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza tropicana",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguettis a la carbonara",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "espaguettis queso gouda",
+                "price": 650,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado gusto 1l",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

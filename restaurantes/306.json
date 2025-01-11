@@ -1,0 +1,424 @@
+{
+    "ID": 306,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "58723821",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.140032524116656,
+                "lng": -82.37801794949878
+            }
+        }
+    },
+    "name": "Macarena Bar",
+    "type_cuisine": [
+        "criolla",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        },
+        "wednesday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        },
+        "thursday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        },
+        "friday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        },
+        "saturday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        },
+        "sunday": {
+            "opening": "16:00",
+            "closing": "03:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": 4.7
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de la casa",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "jamón y queso",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "rollitos a la macarena",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "surtida queso y embutido",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "mixta la macarena",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza cristal de botella",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cerveza bucanero de botella",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "mojitos",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "bello monte",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "cuba bella",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "mary pickford",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "havana especial",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "presidente",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "daikiri",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "caipirissima",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "sex on the beach",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "screw driver",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "kamikase",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "black russian",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "cosmopolitan",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "camino al cielo",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "blue hawaii",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "vodka tonic",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "moscú mule",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "vodka martini",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "charro negro",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "acapulco de noche",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "bloody mariachi",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "nieblas del caribe",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "submarino",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "long island ice tea",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "tom collins",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "caruso",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "gin and sin",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "martini",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "santiago 8",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "hc pacto de navio",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "santiago 11",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "santiago 12",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "monte de la rosa",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "olmeca blanco",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "olmeca reposado",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "don ramón",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "gin beefeater",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "gin q spades",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "gin q rosse",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "gin master",
+                "price": 650.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "energizante",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "agua 500 ml",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "refresco limón",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "refresco cola",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "agua tónica 330 ml",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "expreso",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "carajillo",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "frappuccino",
+                "price": 450.0,
+                "description": []
+            }
+        ]
+    }
+}

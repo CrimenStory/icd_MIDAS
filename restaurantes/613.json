@@ -1,0 +1,312 @@
+{
+    "ID": 613,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76396513"
+            },
+            "map": {
+                "lat": 23.088504072486167,
+                "lng": -82.36598322023903
+            }
+        }
+    },
+    "name": "Atracción",
+    "type_cuisine": [
+        "criolla",
+        "pizzas",
+        "pastas",
+        "helados",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "10:30",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de la casa",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "picadera de la casa",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "chips de vianda frita",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cóctel de camarón",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "masa de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pollo crujiente",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pollo asado con vegetales",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "pollo cordon blue",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo especial",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "cerdo salteado con vegetales",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "camarón grillé",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "camarón rebosado",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "camarón enchilado",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso blanco",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguettis nápoles",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "espaguettis nápoles",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado 3 gracias",
+                "price": 350,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "gin tonic con naranja",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "diquirí variado",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "caipiriña / caipiroska",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "destornillador / screwdriver",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "línea de whisky",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "línea de vodka",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "línea de legendario añejo",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "chupito de tequila",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refrescos importados",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "jugo de cajita",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "jugo de lata",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "jugo natural",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "agua",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 450.0,
+                "description": []
+            }
+        ]
+    }
+}

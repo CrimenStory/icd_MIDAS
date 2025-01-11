@@ -1,0 +1,367 @@
+{
+    "ID": 1321,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78300793"
+            },
+            "map": {
+                "lat": 23.135892638151837,
+                "lng": -82.40453312083959
+            }
+        }
+    },
+    "name": "La Catedral",
+    "type_cuisine": [
+        "criolla",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "bombones de queso y pescado",
+                "price": 499,
+                "description": []
+            },
+            {
+                "item": "mariquitas de yuca",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "brusquetas",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "entremeses surtido",
+                "price": 799,
+                "description": []
+            },
+            {
+                "item": "picadera obispo",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "fuente de eperlan",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "tabla de embutidos",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo y pollo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "tabla de jamón serrano, chorizo y queso",
+                "price": 1900,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "ropa vieja",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo al mojo criollo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "fajita de cerdo al grill",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "lonjas de pierna ahumado salsa agridulce",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "lonjas de pierna ahumado con queso y piña",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "milanesa de cerdo con espaguettis",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "arroz frito especial con camarones",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pollo deshuesado a la plancha",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo salteadas",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "milanesa de pollo con espaguettis",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "arroz con pollo a la chorrera",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "filete de pescado maitre de hotel",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "filete de pescado frito",
+                "price": 1800,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "lasaña de res",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cristal (barril) 500ml",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cristal (botella)",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "bucanero (barril) 500ml",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "bucanero (botella)",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cubetazo 4+1",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "michelada clásica",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "michelada al mojito",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "michelada vampira",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "michelada salsanera",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 340,
+                "description": []
+            },
+            {
+                "item": "daiquirí",
+                "price": 340,
+                "description": []
+            },
+            {
+                "item": "daiquirí de fresas",
+                "price": 499,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 340,
+                "description": []
+            },
+            {
+                "item": "cubanito",
+                "price": 399,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 499,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 499,
+                "description": []
+            },
+            {
+                "item": "screw driver",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "martini",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "old fashioned",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "whiskey sour",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "manhattan",
+                "price": 599,
+                "description": []
+            },
+            {
+                "item": "negroni",
+                "price": 599,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refrescos",
+                "price": 199,
+                "description": []
+            },
+            {
+                "item": "limonada de fresas",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas",
+                "price": 199,
+                "description": []
+            },
+            {
+                "item": "agua natural",
+                "price": 199,
+                "description": []
+            },
+            {
+                "item": "malta perla negra",
+                "price": 350,
+                "description": []
+            }
+        ]
+    }
+}

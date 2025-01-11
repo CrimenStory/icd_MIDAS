@@ -1,0 +1,191 @@
+{
+    "ID": 703,
+    "locality": {
+        "mun": "Guanabacoa",
+        "locator": {
+            "phones": {
+                "mobile": "59477689",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.124494370316903,
+                "lng": -82.30417726451671
+            }
+        }
+    },
+    "name": "El Faro",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.7,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "enchilado de cangrejo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "croqueta de la casa",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de jamón",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de atún",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "picadera tropical",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "plato a lo cubano",
+                "price": 800,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pan con hamburguesa",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa faro",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "costillas de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "ruedas de pescado grille",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pollo grille",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza el faro",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza combinada",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza de cebolla",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza de pimiento",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza gustazo doble queso",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza jamón",
+                "price": 900,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "spaguetti napolitano",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "spaguetti de jamón",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

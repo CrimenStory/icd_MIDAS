@@ -1,0 +1,345 @@
+{
+    "ID": 614,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76405250"
+            },
+            "map": {
+                "lat": 23.08750268185003,
+                "lng": -82.36915437919919
+            }
+        }
+    },
+    "name": "Villa Hernández",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": 4.8
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "guarderia",
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "bistec cubierto / grilled steak",
+                "price": 2558,
+                "description": []
+            },
+            {
+                "item": "bistec empanado / breaded steak",
+                "price": 2848,
+                "description": []
+            },
+            {
+                "item": "filete salcado / pepper steak",
+                "price": 3168,
+                "description": []
+            },
+            {
+                "item": "higado a la italiana / beef liver italian style",
+                "price": 2224,
+                "description": []
+            },
+            {
+                "item": "picadillo a la criolla / ground beef",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "vaca frita / fried beef",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "carne rípíada / shredded beef in tomato sauce",
+                "price": 2544,
+                "description": []
+            },
+            {
+                "item": "bistec de higado a la plancha / grilled liver steak",
+                "price": 2080,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo / breaded steak stuff w/ ham & cheese",
+                "price": 3184,
+                "description": []
+            },
+            {
+                "item": "cordero estofado al vino / lamb in red wine and tomato sauce",
+                "price": 2480,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo hawaiana / hawaiian chicken breast",
+                "price": 2192,
+                "description": []
+            },
+            {
+                "item": "bistec de pechuga de pollo / grilled chicken breast steak",
+                "price": 2848,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado (pechuga) / breaded chicken breast",
+                "price": 2640,
+                "description": []
+            },
+            {
+                "item": "muslos de pollo frito o asado / fried or grill chicken leg quarter",
+                "price": 1856,
+                "description": []
+            },
+            {
+                "item": "filetillo de pollo al ajillo / garlic chicken strips",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "pollo cordon bleu / chicken cordon bleu",
+                "price": 2160,
+                "description": []
+            },
+            {
+                "item": "filetillo de pollo salteado / sauteed chicken strips",
+                "price": 2528,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo a la milanesa / milanesa steak",
+                "price": 2224,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo / rolled pork steak w/ ham & cheese",
+                "price": 2080,
+                "description": []
+            },
+            {
+                "item": "masas fritas / fried pork chunks",
+                "price": 1584,
+                "description": []
+            },
+            {
+                "item": "lechon asado / roast pork",
+                "price": 1888,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo / grilled pork steak",
+                "price": 1440,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado glaseado / glazed smoked pork",
+                "price": 2080,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo milanesa / steak milanese",
+                "price": 1872,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo empanado / breaded pork steak",
+                "price": 1872,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cubanito",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "screw driver",
+                "price": 944,
+                "description": []
+            },
+            {
+                "item": "margarita",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 944,
+                "description": []
+            },
+            {
+                "item": "mojito criollo",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "ron collins",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "frozen daiquiri",
+                "price": 1120,
+                "description": []
+            },
+            {
+                "item": "martini dry",
+                "price": 912,
+                "description": []
+            },
+            {
+                "item": "mary pick ford",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "michelada nacional",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "michelada importada",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "copa de vino",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "copa de sangria",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "jarra de sangria",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "gin tonic",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "gin tonic eco",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "cremas importadas",
+                "price": 1120,
+                "description": []
+            },
+            {
+                "item": "cremas nacionales",
+                "price": 720,
+                "description": []
+            },
+            {
+                "item": "disaronno",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "frangelico",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "cointreau",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "gran marnier",
+                "price": 960,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

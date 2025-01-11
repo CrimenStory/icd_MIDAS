@@ -1,0 +1,299 @@
+{
+    "ID": 801,
+    "locality": {
+        "mun": "Habana del Este",
+        "locator": {
+            "phones": {
+                "mobile": "58385050",
+                "landline": "77666890"
+            },
+            "map": {
+                "lat": 23.16213337258811,
+                "lng": -82.29442813615995
+            }
+        }
+    },
+    "name": "Aires de Cojimar",
+    "type_cuisine": [
+        "criolla",
+        "española"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "whatsapp",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "coctel de pescado",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "ensalada mixta",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "picadera mixta",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "coctel bella mar",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "ceviche aires de cojimar",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "lomo de pescado en escabeche",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "eperlan",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "tapas caprichosas",
+                "price": 425,
+                "description": []
+            },
+            {
+                "item": "surtido de croquetas",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "tostones al ajo",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "sopon de mariscos",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "sopa de pollo y vegetales",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "crema de calabaza y queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "crema de mariscos",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "costillas de cerdo fritas",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "arroz con camarones",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "milanesa a la napolitana",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "uruguayo de cerdo",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "camaron al ajillo",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "langosta varadero",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "langosta busito",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "langosta aires de cojimar",
+                "price": 5500,
+                "description": []
+            },
+            {
+                "item": "pulpo al vino tinto",
+                "price": 2850,
+                "description": []
+            },
+            {
+                "item": "pulpo al ajillo",
+                "price": 2850,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grille",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "filete de pescado en salsa de romero y limon",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "filete de pescado con camarones al graten",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "filete de pescado canciller",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "camarones tropicales",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "enchilado de camarones",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "camarones al sesamo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "caldereta dona blanca",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "dados de cerdo a la cojimera",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo al mojo criollo",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pollo con camarones al graten",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pollo hawaiano",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "sabor del cielo",
+                "price": 1550,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "dulces finos",
+                "price": 450,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

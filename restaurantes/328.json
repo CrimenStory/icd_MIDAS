@@ -1,0 +1,223 @@
+{
+    "ID": 328,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.138905560172887,
+                "lng": -82.37656169182799
+            }
+        }
+    },
+    "name": "Ivonne Café",
+    "type_cuisine": [
+        "cafe"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza queso blanco",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza grande queso blanco",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "pizza pequeña gouda",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pizza grande gouda",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espagueti blanco",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "espagueti gouda",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "tartaleta",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "donut",
+                "price": 170,
+                "description": []
+            },
+            {
+                "item": "coffee cake",
+                "price": 160,
+                "description": []
+            },
+            {
+                "item": "empanada",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cangrejitos",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "rollitos",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "pasteles",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "cakes",
+                "price": 4500,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cervezas",
+                "price": 300.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "expreso",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "cortado",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "con leche",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "capuchino",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "bombon",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "frapuccino",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "aguas",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refrescos",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "batido helado",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "batido fruta",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 850.0,
+                "description": []
+            }
+        ]
+    }
+}

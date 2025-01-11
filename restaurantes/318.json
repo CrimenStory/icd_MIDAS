@@ -1,0 +1,180 @@
+{
+    "ID": 318,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.136606572526283,
+                "lng": -82.36299826271366
+            }
+        }
+    },
+    "name": "Cafe Bulevar",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.4,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ensalada de estacion",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 150,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "caldosa boulevard",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "arroz con subproductos",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "filete de merluza",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 180.0,
+                "description": []
+            },
+            {
+                "item": "vino tinto cabernet",
+                "price": 1340.0,
+                "description": []
+            },
+            {
+                "item": "licor paso pondal (30ml)",
+                "price": 75.0,
+                "description": []
+            },
+            {
+                "item": "licor fenet blanca (30ml)",
+                "price": 75.0,
+                "description": []
+            },
+            {
+                "item": "grappa carolina bianca (30ml)",
+                "price": 75.0,
+                "description": []
+            },
+            {
+                "item": "ron legendario añejo (45ml)",
+                "price": 90.0,
+                "description": []
+            },
+            {
+                "item": "ron legendario dorado (45ml)",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "trago legendario ronse (45ml)",
+                "price": 75.0,
+                "description": []
+            },
+            {
+                "item": "licor de cafe (30ml)",
+                "price": 75.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino blanco (125ml)",
+                "price": 145.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugo de fruta",
+                "price": 100.0,
+                "description": []
+            }
+        ]
+    }
+}

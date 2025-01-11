@@ -1,0 +1,513 @@
+{
+    "ID": 1105,
+    "locality": {
+        "mun": "Marianao",
+        "locator": {
+            "phones": {
+                "mobile": "59531065",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.071157091647542,
+                "lng": -82.43553263563338
+            }
+        }
+    },
+    "name": "Colesterol 5.1",
+    "type_cuisine": [
+        "criolla",
+        "pizzas",
+        "pastas",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "euro",
+        "usd"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "mariposita china",
+                "price": 565,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 590,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso con miel y mostaza",
+                "price": 730,
+                "description": []
+            },
+            {
+                "item": "croquetas colesterol 5.1",
+                "price": 835,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "cóctel de camarones",
+                "price": 1670,
+                "description": []
+            },
+            {
+                "item": "eperlan de pescado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de jamón",
+                "price": 835,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de pollo",
+                "price": 865,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de atún",
+                "price": 995,
+                "description": []
+            },
+            {
+                "item": "ensalada fría de marisco",
+                "price": 1125,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 595,
+                "description": []
+            },
+            {
+                "item": "crema de mariscos",
+                "price": 920,
+                "description": []
+            },
+            {
+                "item": "garbanzo frito",
+                "price": 1670,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 1260,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 1670,
+                "description": []
+            },
+            {
+                "item": "tacos de res",
+                "price": 1925,
+                "description": []
+            },
+            {
+                "item": "tacos de marineros",
+                "price": 2330,
+                "description": []
+            },
+            {
+                "item": "tabla colesterol",
+                "price": 3320,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "sandwich ropa vieja",
+                "price": 760,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamón y queso",
+                "price": 765,
+                "description": []
+            },
+            {
+                "item": "sandwich cubano",
+                "price": 1320,
+                "description": []
+            },
+            {
+                "item": "sandwich de atún y cebolla",
+                "price": 1945,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 2725,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 2995,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo en salsa agridulce",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "bistec suprema",
+                "price": 2460,
+                "description": []
+            },
+            {
+                "item": "ropa vieja res",
+                "price": 2190,
+                "description": []
+            },
+            {
+                "item": "vaca frita",
+                "price": 2190,
+                "description": []
+            },
+            {
+                "item": "brocheta mixta",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "enchilado de cangrejo",
+                "price": 1005,
+                "description": []
+            },
+            {
+                "item": "enchilado de langosta",
+                "price": 3030,
+                "description": []
+            },
+            {
+                "item": "mariscada estelares 5.1",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "pescado enchilado",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "filete de pescado grille",
+                "price": 3625,
+                "description": []
+            },
+            {
+                "item": "filete de pescado canciller",
+                "price": 3675,
+                "description": []
+            },
+            {
+                "item": "arroz con artistage",
+                "price": 2800,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza margarita 5.1",
+                "price": 1930,
+                "description": []
+            },
+            {
+                "item": "pizza de jamón",
+                "price": 2115,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 2215,
+                "description": []
+            },
+            {
+                "item": "pizza de bacon, pepperoni y jamón serrano",
+                "price": 2845,
+                "description": []
+            },
+            {
+                "item": "pizza campesina",
+                "price": 2645,
+                "description": []
+            },
+            {
+                "item": "pizza marinera",
+                "price": 3020,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetis napolitanos",
+                "price": 925,
+                "description": []
+            },
+            {
+                "item": "espaguetis con jamón",
+                "price": 1145,
+                "description": []
+            },
+            {
+                "item": "espaguetis a la boloñesa",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "espaguetis al pesto",
+                "price": 1265,
+                "description": []
+            },
+            {
+                "item": "espaguetis carbonara",
+                "price": 2475,
+                "description": []
+            },
+            {
+                "item": "espaguetis con frutos de mar",
+                "price": 3750,
+                "description": []
+            },
+            {
+                "item": "lasaña boloñesa",
+                "price": 2245,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "churros con leche condensada",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "tocinillo",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "sunday",
+                "price": 470,
+                "description": []
+            },
+            {
+                "item": "churros acompañado de chocolate caliente",
+                "price": 700,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "base chelada",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "base michelada",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 495.0,
+                "description": []
+            },
+            {
+                "item": "caipiriña",
+                "price": 495.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "daikiri floridita",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "tinto verano",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "gyntonic",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "canchanchara",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "mojito",
+                "price": 720.0,
+                "description": []
+            },
+            {
+                "item": "sangría especial 5.1",
+                "price": 720.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 380.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "café express",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "frapuccino",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "agua mineral",
+                "price": 190.0,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "jugos de cajita",
+                "price": 340.0,
+                "description": []
+            },
+            {
+                "item": "batidos de frutas",
+                "price": 495.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 545.0,
+                "description": []
+            },
+            {
+                "item": "refresco de lata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "refresco pepsi",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "refresco seven up",
+                "price": 420.0,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 610.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 360.0,
+                "description": []
+            }
+        ]
+    }
+}

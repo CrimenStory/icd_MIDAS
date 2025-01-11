@@ -1,0 +1,162 @@
+{
+    "ID": 609,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "52823877",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.093509305513987,
+                "lng": -82.36480264180305
+            }
+        }
+    },
+    "name": "Luly Hamburguesas",
+    "type_cuisine": [
+        "americana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": null,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "guarderia",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa especial",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de jamón y queso",
+                "price": 680,
+                "description": []
+            },
+            {
+                "item": "hamburguesa sencilla",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "sandwich jamón y queso",
+                "price": 610,
+                "description": []
+            },
+            {
+                "item": "medianoche especial",
+                "price": 470,
+                "description": []
+            },
+            {
+                "item": "medianoche especial",
+                "price": 220,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza king",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "cerveza carstal",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "pepsi cola",
+                "price": 210,
+                "description": []
+            },
+            {
+                "item": "limón",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "naranja",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "malta turbo",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 460,
+                "description": []
+            }
+        ]
+    }
+}

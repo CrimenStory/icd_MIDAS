@@ -1,0 +1,186 @@
+{
+    "ID": 1401,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.12540621324244,
+                "lng": -82.33255714289457
+            }
+        }
+    },
+    "name": "Restaurante Lan",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "12:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "mariquitas",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "tostones r. rellenos",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de higado",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "fricase de pollo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "enchilada de camarones",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "fricase de pollo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "filete de malanga c/s. agridulce",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "pollo frito",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "bistec de palillo empanado",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "camarones empanados",
+                "price": 550,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza mixta med/fam.",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza cebolla med/fam.",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza jamón med/fam.",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza nápole med/fam.",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pizza doble queso med/fam.",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espagueti napolitano",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "espagueti de jamón",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

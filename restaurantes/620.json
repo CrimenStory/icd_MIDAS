@@ -1,0 +1,214 @@
+{
+    "ID": 620,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "56147642",
+                "landline": "76395989"
+            },
+            "map": {
+                "lat": 23.09629989127246,
+                "lng": -82.37472678531226
+            }
+        }
+    },
+    "name": "Bar Secret Garden",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": 5.0
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "wifi",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "hummus",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "panes de la casa",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "croquetas de remolacha y queso azul",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "croquetas de pescado",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "crujientes de pollo",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "patatas bravas",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "blinis de salmon ahumado",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "jamon iberico de bellota en lonchas",
+                "price": 4200,
+                "description": []
+            },
+            {
+                "item": "ensalada voya",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "ensalada peri-peri",
+                "price": 4800,
+                "description": []
+            },
+            {
+                "item": "ensalada de feta crujiente",
+                "price": 4500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "secret garden mini hamburguesas de res",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "quesadilla con queso, jamon serrano y pico de gallo",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "bruschettas",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "panini con jamon y queso",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "sandwich de pollo parmigiana",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "sandwich bltp",
+                "price": 3300,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "montana en llamas",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "tarte au citron 2.0",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "lacteos en textura",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "muerte por chocolate",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "copa de gelato",
+                "price": 1800,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

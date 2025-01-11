@@ -1,0 +1,368 @@
+{
+    "ID": 1323,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78332060"
+            },
+            "map": {
+                "lat": 23.142433620136078,
+                "lng": -82.39923307575508
+            }
+        }
+    },
+    "name": "Mar Adentro",
+    "type_cuisine": [
+        "criolla",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "00:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": 4.1
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "whatsapp",
+        "facebook"
+    ],
+    "payment_options": [
+        "transfermóvil",
+        "efectivo",
+        "enzona"
+    ],
+    "service_details": [
+        "a domicilio",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            {
+                "item": "inglés",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "continental",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "starters": [
+            {
+                "item": "cesta de pan",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "focaccia al romero",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "focaccia de jamón serrano, tomate y rúcula",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "bruchettas",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "empanadillas de cangrejo o piña y queso",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "chispitas de malanga con camarones",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "croquetas de pescado o pollo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "casabe taíno",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "tacos de vaca frita o pescado",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "ceviche maradentro",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "rollitos de salmón",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "carpaccio de tuna",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "sushi/nigiri",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "dumplings de carne",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "carpaccio de res",
+                "price": 2800,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo horneado",
+                "price": 2600,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo grillada",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "chilindrón de cordero al tinto",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo confitadas",
+                "price": 3200,
+                "description": []
+            },
+            {
+                "item": "lonjas de cerdo asadas en cazuela",
+                "price": 3400,
+                "description": []
+            },
+            {
+                "item": "costillas guajiras",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "ropa vieja frita",
+                "price": 2700,
+                "description": []
+            },
+            {
+                "item": "bistec de palomilla",
+                "price": 6800,
+                "description": []
+            },
+            {
+                "item": "chivito uruguayo",
+                "price": 8200,
+                "description": []
+            },
+            {
+                "item": "camarones",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "langosta",
+                "price": 4300,
+                "description": []
+            },
+            {
+                "item": "pesca del día",
+                "price": 3200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "copa de helado",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "brownie y helado",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "cheesecake de guayaba",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "casquitos de guayaba con queso guajiro",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "flan licuado",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tarta de limón",
+                "price": 1000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "maradentro",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "clarete",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "vino blanco de verano",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "licor marejada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "rubi",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "limonada natural",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "limonada frescura",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "limonada pepino y jengibre",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "agua nacional",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "agua importada",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "agua tónica nacional",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "agua tónica importada",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "refresco nacional",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "energizantes",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "batido de frutas",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 900,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "ID": 616,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "54838625",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.100956835470026,
+                "lng": -82.36315350508379
+            }
+        }
+    },
+    "name": "Duende Pizzas",
+    "type_cuisine": [
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza mini plus",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza triple queso",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza mini duende",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza duende",
+                "price": 1700,
+                "description": []
+            },
+            {
+                "item": "pizza royal",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "pizza mini bordes de queso",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza napoles",
+                "price": 1600,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 180.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "malta bucanero",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "refresco lata",
+                "price": 220.0,
+                "description": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,201 @@
+{
+    "ID": 1506,
+    "locality": {
+        "mun": "San Miguel del Padrón",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.08023772075543,
+                "lng": -82.32083560917445
+            }
+        }
+    },
+    "name": "El Tráfico",
+    "type_cuisine": [
+        "criolla",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 2.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transferencia"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tamal",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "papas fritas",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de pollo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "bistec de res",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cerdo guisado",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "costilla de cerdo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "filete de merluza",
+                "price": 2000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso blanco",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco xl",
+                "price": 770,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda xl",
+                "price": 830,
+                "description": []
+            },
+            {
+                "item": "pizza de queso parmesano",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza de queso parmesano xl",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetti con queso blanco",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "espaguetti con queso gouda",
+                "price": 420,
+                "description": []
+            },
+            {
+                "item": "espaguetti con queso parmesano",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

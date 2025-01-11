@@ -1,0 +1,141 @@
+{
+    "ID": 605,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "76400715"
+            },
+            "map": {
+                "lat": 23.08829101929028,
+                "lng": -82.3777419915061
+            }
+        }
+    },
+    "name": "Joe's Burguer",
+    "type_cuisine": [
+        "americana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 3.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa de cerdo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de pollo",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de res",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "hamburguesa doble",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bocadito de jamón y queso",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "potes de helado",
+                "price": 2000,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "malteada",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "limonada frappé",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "batido de helado",
+                "price": 700,
+                "description": []
+            }
+        ]
+    }
+}

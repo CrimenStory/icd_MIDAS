@@ -1,0 +1,226 @@
+{
+    "ID": 1309,
+    "locality": {
+        "mun": "Plaza de la Revolución",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78315883"
+            },
+            "map": {
+                "lat": 23.14155904081577,
+                "lng": -82.40118050679031
+            }
+        }
+    },
+    "name": "Beirut",
+    "type_cuisine": [
+        "asiatica"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "shish taouk",
+                "price": 2950,
+                "description": []
+            },
+            {
+                "item": "kabab",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "shish taouk-kabab",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "shish kabab",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tajin",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "mixto beirut",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "fetuche",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "ensalada mixta",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "betabel",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ensalada beirut",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "tabule",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": " shawarma de pollo",
+                "price": 1520,
+                "description": []
+            },
+            {
+                "item": " shawarma árabe",
+                "price": 1520,
+                "description": []
+            },
+            {
+                "item": "sandwich falafel",
+                "price": 1420,
+                "description": []
+            },
+            {
+                "item": " sandwich shish taouk",
+                "price": 1720,
+                "description": []
+            },
+            {
+                "item": " sandwich kabab",
+                "price": 1720,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item_name": "cerveza",
+                "price": 390,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "limonada",
+                "price": 410,
+                "description": []
+            },
+            {
+                "item_name": "agua nacional",
+                "price": 175,
+                "description": []
+            },
+            {
+                "item_name": "refrescos importados",
+                "price": 290,
+                "description": []
+            },
+            {
+                "item_name": "maltas",
+                "price": 290,
+                "description": []
+            },
+            {
+                "item_name": "jugos naturales",
+                "price": 410,
+                "description": []
+            },
+            {
+                "item_name": "expresso",
+                "price": 125,
+                "description": []
+            },
+            {
+                "item_name": "capuccino",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item_name": "americano",
+                "price": 160,
+                "description": []
+            },
+            {
+                "item_name": "cortado",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item_name": "te",
+                "price": 150,
+                "description": []
+            }
+        ]
+    }
+}

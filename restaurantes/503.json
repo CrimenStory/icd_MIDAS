@@ -1,0 +1,206 @@
+{
+    "ID": 503,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.047306531006058,
+                "lng": -82.2683502866321
+            }
+        }
+    },
+    "name": "Martínez Club",
+    "type_cuisine": [
+        "hamburguesas",
+        "pizzas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transferencia"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "fritura de malanga",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "ensalada fría",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "tostones al ajillo",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa simple",
+                "price": 230,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con mayonesa",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con jamón",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con chorizo",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con cebolla",
+                "price": 330,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con queso blanco",
+                "price": 330,
+                "description": []
+            },
+            {
+                "item": "hamburguesa con queso gouda",
+                "price": 430,
+                "description": []
+            },
+            {
+                "item": "pollo chiflado",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo frita",
+                "price": 1100,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza con queso blanco",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "pizza con queso gouda",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza familiar con queso blanco",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pizza familiar con queso gouda",
+                "price": 650,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espaguetti con queso blanco",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "espaguetti con queso gouda",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "expresso",
+                "price": 20.0,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 20.0,
+                "description": []
+            },
+            {
+                "item": "jugo",
+                "price": 50.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 330.0,
+                "description": []
+            }
+        ]
+    }
+}

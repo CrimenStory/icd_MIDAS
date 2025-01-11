@@ -1,0 +1,655 @@
+{
+    "ID": 319,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": "78706515"
+            },
+            "map": {
+                "lat": 23.138245258561607,
+                "lng": -82.37855093616108
+            }
+        }
+    },
+    "name": "El Biky_Bar",
+    "type_cuisine": [
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "08:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.5,
+        "qualification_tripadvisor": 4.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil",
+        "usd"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croqueticas de la casa",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de jamón",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de ropa vieja",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos mixtos",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos de atún",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "sándwich de jamón en pan baguette (con viandas fritas)",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "sándwich de queso en pan baguette (con viandas fritas)",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "sándwich de jamón y queso en pan baguette (con viandas fritas)",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "baguette con lomo de cerdo (con viandas fritas)",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "baguette de atún",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "baguette catalana (jamón serrano con viandas fritas)",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "baguette de pollo (pechuga de pollo con viandas fritas)",
+                "price": 1900,
+                "description": []
+            },
+            {
+                "item": "baguette cubano (cerdo asado, jamón ahumado y queso)",
+                "price": 1393,
+                "description": []
+            },
+            {
+                "item": "pepito de filete de res (filete de res con vegetales y viandas fritas)",
+                "price": 5000,
+                "description": []
+            },
+            {
+                "item": "hamburguesa de carne (res) con vegetales y vianda frita",
+                "price": 2740,
+                "description": []
+            },
+            {
+                "item": "cheeseburger (res) con queso, vegetales y vianda frita",
+                "price": 2950,
+                "description": []
+            },
+            {
+                "item": "hamburguesa especial (res) con jamón, queso, bacon y vegetales",
+                "price": 3700,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "crema reina",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "crema aurora",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "crema virginia",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "carpaccio de pulpo aderezado de aceite extra virgen de olivas",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "carpaccio de res",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "ceviche de camarones",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones en salsa rosa",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "ceviche de pescado",
+                "price": 2650,
+                "description": []
+            },
+            {
+                "item": "esperlan de pescado",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "esperlan de langosta",
+                "price": 2900,
+                "description": []
+            },
+            {
+                "item": "rosa de salmón ahumado",
+                "price": 4100,
+                "description": []
+            },
+            {
+                "item": "surtido de quesos",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "pimientos piquillos rellenos (queso crema, atún y vegetales)",
+                "price": 1950,
+                "description": []
+            },
+            {
+                "item": "entremes de jamón serrano",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "cazuela de garbanzos",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo a la plancha",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo grille",
+                "price": 3500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo fritas",
+                "price": 2800,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo frita",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo",
+                "price": 3900,
+                "description": []
+            },
+            {
+                "item": "pollo grille",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "gorden blue",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "filete de pescado",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "filete de salmón",
+                "price": 5500,
+                "description": []
+            },
+            {
+                "item": "zalzuela de mariscos",
+                "price": 6000,
+                "description": []
+            },
+            {
+                "item": "solomillo de res",
+                "price": 6800,
+                "description": []
+            },
+            {
+                "item": "pulpo",
+                "price": 5800,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1300,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasaña bolognesa",
+                "price": 3800,
+                "description": []
+            },
+            {
+                "item": "espaguetis a la carbonara",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "espaguetis con jamón y queso",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "espaguetis napolitanos",
+                "price": 970,
+                "description": []
+            },
+            {
+                "item": "espaguetis bolognesa",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "espaguetis con atún",
+                "price": 2400,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "flan de caramelo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "cheesecake",
+                "price": 920,
+                "description": []
+            },
+            {
+                "item": "bizcocho con helado",
+                "price": 720,
+                "description": []
+            },
+            {
+                "item": "copa tres leches",
+                "price": 960,
+                "description": []
+            },
+            {
+                "item": "pie de limón",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "helado sencillo",
+                "price": 420,
+                "description": []
+            },
+            {
+                "item": "jimaguas",
+                "price": 740,
+                "description": []
+            },
+            {
+                "item": "tres gracias",
+                "price": 680,
+                "description": []
+            },
+            {
+                "item": "copa lolita (helado con flan)",
+                "price": 860,
+                "description": []
+            },
+            {
+                "item": "ensalada de helado",
+                "price": 900,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "ron collis",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "limonada clarete",
+                "price": 2000.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 1800.0,
+                "description": []
+            },
+            {
+                "item": "mary pickford",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "cuba bella",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "majto",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri rebelde",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "havana special",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "b-52",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "bloody mary",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "manhattan",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "cantharchars",
+                "price": 750.0,
+                "description": []
+            },
+            {
+                "item": "martini",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "san francisco",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "colada",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "miami vice",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "virgin maria",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "47's frozen",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "cervezas",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "jarra de cerveza",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "vaso de cerveza",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino",
+                "price": 1500.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino digestivo dulce (50ml)",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "café carajillo",
+                "price": 400.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "batido de helado",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 970.0,
+                "description": []
+            },
+            {
+                "item": "agua gaseosa importada",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "agua natural sin gas",
+                "price": 440.0,
+                "description": []
+            },
+            {
+                "item": "agua tónica",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "refrescos",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "red bull",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 1200.0,
+                "description": []
+            },
+            {
+                "item": "limonada",
+                "price": 720.0,
+                "description": []
+            },
+            {
+                "item": "limonada fresca",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "jugos de frutas naturales",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "batidos de frutas naturales",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "vaso de leche",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "café expreso",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "café cortado",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "café con leche",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "café bombón",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "capuchino",
+                "price": 310.0,
+                "description": []
+            },
+            {
+                "item": "té",
+                "price": 150.0,
+                "description": []
+            }
+        ]
+    }
+}

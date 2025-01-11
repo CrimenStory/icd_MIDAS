@@ -1,0 +1,218 @@
+{
+    "ID": 1404,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.12805874474967,
+                "lng": -82.33435589367647
+            }
+        }
+    },
+    "name": "2KFE",
+    "type_cuisine": [
+        "cafe",
+        "criolla",
+        "mexicana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "viandas fritas",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "brusquetas",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "entremes surtido",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "mini gordon bleu",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "plato combinado",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "tacos carnitas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "tacos res",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "tacos pollo",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tacos vegetariano",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "tacos jamón y queso",
+                "price": 650,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "espresso",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "americano",
+                "price": 100,
+                "description": []
+            },
+            {
+                "item": "cortadito",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "con leche",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "espresso macchiato",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "caramelo macchiato",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "cappuccino",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "frappuccino",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "irlandés",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "caribeño",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "alma mía",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "minty coffee",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "2kf",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "lujo",
+                "price": 600,
+                "description": []
+            }
+        ]
+    }
+}

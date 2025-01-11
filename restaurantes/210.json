@@ -1,0 +1,260 @@
+{
+    "ID": 210,
+    "locality": {
+        "mun": "Boyeros",
+        "locator": {
+            "phones": {
+                "mobile": "59213182",
+                "landline": "76837364"
+            },
+            "map": {
+                "lat": 22.967133915154772,
+                "lng": -82.38463772280829
+            }
+        }
+    },
+    "name": "La Gordy",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "telegram",
+        "whatsapp",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "generador",
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "tostones criollos",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos 'la gordy'",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec de hígado",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "hígado a la italiana",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "fricasé de cerdo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo encebolladas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo empanadas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo fritas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grillé",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo a la pila",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo empanado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo gratinado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "chuleta ahumada gratinada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "chuleta ahumada",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "ropa de vieja",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "arroz moro",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo encebolladas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo empanadas",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pollo deshuesado grillé",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "pollo a la piña",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pollo deshuesado empanado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pollo deshuesado gratinado",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga encebolladas",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga empanadas",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo grillé",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo a la piña",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo empanada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo gratinada",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pechuga gordon blue",
+                "price": 1200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

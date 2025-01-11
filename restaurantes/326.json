@@ -1,0 +1,378 @@
+{
+    "ID": 326,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.134776558921473,
+                "lng": -82.36387247467647
+            }
+        }
+    },
+    "name": "Fénix Dorado",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": 3.5,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "picadera fénix",
+                "price": 1785,
+                "description": []
+            },
+            {
+                "item": "entremés jamón y aceite",
+                "price": 535,
+                "description": []
+            },
+            {
+                "item": "entremés jamón y queso",
+                "price": 835,
+                "description": []
+            },
+            {
+                "item": "entremés aceitunas",
+                "price": 555,
+                "description": []
+            },
+            {
+                "item": "coctel camarones",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "ensalada fría jamón",
+                "price": 595,
+                "description": []
+            },
+            {
+                "item": "ensalada fría atún",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "vianda c/mojo",
+                "price": 315,
+                "description": []
+            },
+            {
+                "item": "tostones nat. ajillo",
+                "price": 495,
+                "description": []
+            },
+            {
+                "item": "tost. rellenos jamoniquesos",
+                "price": 695,
+                "description": []
+            },
+            {
+                "item": "tost. rellenos c/camarón",
+                "price": 835,
+                "description": []
+            },
+            {
+                "item": "mariposas chinas",
+                "price": 375,
+                "description": []
+            },
+            {
+                "item": "ensalada mixta",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "sopa fénix",
+                "price": 895,
+                "description": []
+            },
+            {
+                "item": "fritura malanga",
+                "price": 510,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "bistec cerdo grille",
+                "price": 1625,
+                "description": []
+            },
+            {
+                "item": "bistec cerdo encebollado",
+                "price": 1885,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 2535,
+                "description": []
+            },
+            {
+                "item": "camarón grille",
+                "price": 2785,
+                "description": []
+            },
+            {
+                "item": "camarón al ajillo",
+                "price": 2950,
+                "description": []
+            },
+            {
+                "item": "camarón enchilado",
+                "price": 3120,
+                "description": []
+            },
+            {
+                "item": "filete pescado grille",
+                "price": 2675,
+                "description": []
+            },
+            {
+                "item": "filete sensación",
+                "price": 3000,
+                "description": []
+            },
+            {
+                "item": "filete terraza",
+                "price": 3940,
+                "description": []
+            },
+            {
+                "item": "chop suey camarón",
+                "price": 2970,
+                "description": []
+            },
+            {
+                "item": "chop suey pollo",
+                "price": 1995,
+                "description": []
+            },
+            {
+                "item": "chop suey cerdo",
+                "price": 2205,
+                "description": []
+            },
+            {
+                "item": "pollo grille",
+                "price": 3975,
+                "description": []
+            },
+            {
+                "item": "plancha de mar",
+                "price": 5255,
+                "description": []
+            },
+            {
+                "item": "masas cerdo ftas (1.5b)",
+                "price": 4550,
+                "description": []
+            },
+            {
+                "item": "brochetas cerdo (1.56)",
+                "price": 4650,
+                "description": []
+            },
+            {
+                "item": "plancha mar y tierra",
+                "price": 5255,
+                "description": []
+            },
+            {
+                "item": "corona fenix",
+                "price": 5965,
+                "description": []
+            },
+            {
+                "item": "zarzuela de mariscos",
+                "price": 5455,
+                "description": []
+            },
+            {
+                "item": "mucho cerdo (3 lb)",
+                "price": 8550,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza c/queso gouda",
+                "price": 1120,
+                "description": []
+            },
+            {
+                "item": "pizza c/queso blanco",
+                "price": 695,
+                "description": []
+            },
+            {
+                "item": "pizza haw. queso blanco",
+                "price": 1145,
+                "description": []
+            },
+            {
+                "item": "pizza haw. queso gouda",
+                "price": 1570,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "espag. nap. c/queso gouda",
+                "price": 995,
+                "description": []
+            },
+            {
+                "item": "espag. nap. c/queso bco",
+                "price": 645,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza corona",
+                "price": 480.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 360.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "café carajillo",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "vino (bot)",
+                "price": 2500.0,
+                "description": []
+            },
+            {
+                "item": "copa heilada",
+                "price": 500.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco nacional",
+                "price": 310.0,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 340.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "nectar frutas",
+                "price": 340.0,
+                "description": []
+            },
+            {
+                "item": "aquia nat, importada 500ml",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "ama nat. nacional 500ml",
+                "price": 210.0,
+                "description": []
+            },
+            {
+                "item": "café expreso",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "café americano",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "batido helado",
+                "price": 540.0,
+                "description": []
+            }
+        ]
+    }
+}

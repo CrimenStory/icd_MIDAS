@@ -1,0 +1,182 @@
+{
+    "ID": 305,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "54047156",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.143218246225477,
+                "lng": -82.37817617833404
+            }
+        }
+    },
+    "name": "Bueníssimo heladería",
+    "type_cuisine": [
+        "helados"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "09:30",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "09:30",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "09:30",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "09:30",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.5,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "1/2 kg de helado",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "1 kg de helado",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "cono (1bola 95gr)",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "cono doble",
+                "price": 560,
+                "description": []
+            },
+            {
+                "item": "cono maxi",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "copa bueníssimo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "copa family",
+                "price": 2100,
+                "description": []
+            },
+            {
+                "item": "copa firenze",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "copa habana",
+                "price": 620,
+                "description": []
+            },
+            {
+                "item": "copa roma",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "copeta 1 bola",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "copeta 2 sabores",
+                "price": 630,
+                "description": []
+            },
+            {
+                "item": "copeta 3 sabores",
+                "price": 920,
+                "description": []
+            },
+            {
+                "item": "copeta 4 sabores",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tulipan",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "tulipan max",
+                "price": 1500,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "batido",
+                "price": 900.0,
+                "description": []
+            },
+            {
+                "item": "batido maxi",
+                "price": 1000.0,
+                "description": []
+            }
+        ]
+    }
+}

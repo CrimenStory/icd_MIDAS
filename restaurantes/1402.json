@@ -1,0 +1,524 @@
+{
+    "ID": 1402,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": "56901253",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.124529609158262,
+                "lng": -82.3276779397017
+            }
+        }
+    },
+    "name": "La Nueva Guitarreta",
+    "type_cuisine": [
+        "cocteles",
+        "criolla",
+        "mexicana",
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "entretenimiento"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ración de yuca con mojo",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "ensalada de estación",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "tacos de pollo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "tacos de cerdo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "tacos de res",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "bolitas de queso g",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos qb",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos qg",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "papas fritas con kétchup",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "papas fritas con ketchup y qg",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "croquetas de la abuela",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "croquetas bechamel",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "mariopositas chinas",
+                "price": 400,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz frito",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "arroz frito especial",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "camarones al ajillo",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "camarones enchilados",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo con salsa agridulce o mojito criollo",
+                "price": 2300,
+                "description": []
+            },
+            {
+                "item": "escalope de cerdo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1800,
+                "description": []
+            },
+            {
+                "item": "pechuga empanada",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "pechuga milanesa",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "pechuga grillé",
+                "price": 1600,
+                "description": []
+            },
+            {
+                "item": "pechuga princesa",
+                "price": 1750,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso blanco",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana qb",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana qg",
+                "price": 1250,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasagna",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "espaguetis de queso blanco",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "espaguetis de queso gouda",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "pantera rosa",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "sangría",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "tinto verano",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "long island",
+                "price": 850.0,
+                "description": []
+            },
+            {
+                "item": "screwdriver",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic basic",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "gin tonic c/ beefeater",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "vodkatonic",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "cubata",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "poción guitarreta",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "ron hav club añejo especial",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "ron hav club ritual",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "ron hav club añejo 7 años",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "crema tequila de fresa",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "crema de ron rua vieja",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "crema de whisky bailey's",
+                "price": 800.0,
+                "description": []
+            },
+            {
+                "item": "whisky jw etiqueta roja",
+                "price": 650.0,
+                "description": []
+            },
+            {
+                "item": "whisky ballantines",
+                "price": 600.0,
+                "description": []
+            },
+            {
+                "item": "whisky jameson",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "whisky chivas regal",
+                "price": 700.0,
+                "description": []
+            },
+            {
+                "item": "whisky jb",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "whisky chanceler",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "shot tequila olmeca silver",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "shot jagermeifter",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino tinto semidulce",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino tinto merlot",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino tinto cabernet sauvignon",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino tinto tempranillo",
+                "price": 675.0,
+                "description": []
+            },
+            {
+                "item": "copa de vino blanco",
+                "price": 350.0,
+                "description": []
+            },
+            {
+                "item": "michelada",
+                "price": 250.0,
+                "description": []
+            },
+            {
+                "item": "chelada",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "caipiroska",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "caipirisima",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 400.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua natural importada",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "refresco de cola importado",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "refresco de cola imp pepsi",
+                "price": 260.0,
+                "description": []
+            },
+            {
+                "item": "refresco de limón imp 7up",
+                "price": 260.0,
+                "description": []
+            },
+            {
+                "item": "refresco de naranja imp fanta",
+                "price": 260.0,
+                "description": []
+            },
+            {
+                "item": "refresco de naranja importado",
+                "price": 260.0,
+                "description": []
+            },
+            {
+                "item": "refresco mate",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "malta nacional bucanero",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "energizante importado",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "energizante importado",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "energizante red bull",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "limonada frape",
+                "price": 290.0,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 550.0,
+                "description": []
+            },
+            {
+                "item": "piña colada virgen",
+                "price": 500.0,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 600.0,
+                "description": []
+            }
+        ]
+    }
+}

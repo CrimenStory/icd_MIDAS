@@ -1,0 +1,408 @@
+{
+    "ID": 804,
+    "locality": {
+        "mun": "Habana del Este",
+        "locator": {
+            "phones": {
+                "mobile": "52646274",
+                "landline": "77650514"
+            },
+            "map": {
+                "lat": 23.16201335878783,
+                "lng": -82.29718375783479
+            }
+        }
+    },
+    "name": "El Ajiaco",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": 5.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "acceso para discapacitados"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "ceviche de pescado",
+                "price": 890,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "coctel de langosta",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "escabache de pescado con aderezo de aceitunas y cebolla",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "pulpo fresco en vinagreta de cilantro y pimentón",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "ajiaco cubano con dados de tamal y corona de ropa vieja",
+                "price": 390,
+                "description": []
+            },
+            {
+                "item": "sopa crema de malanga con sofritos de ajo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos del chef",
+                "price": 1470,
+                "description": []
+            },
+            {
+                "item": "croquetas caseras del día",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos con ropa vieja",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos con jamón y queso",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "tostones rellenos mixtos",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "cartucho de frituras de malanga",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "tamal en cazuela con chorizo y cerdo o camarones",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "tamal en hoja en montería de cerdo",
+                "price": 890,
+                "description": []
+            },
+            {
+                "item": "tamal en hoja con salsa chirnichurri",
+                "price": 420,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "arroz a la cubana",
+                "price": 590,
+                "description": []
+            },
+            {
+                "item": "arroz a la marinera",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "arroz a la campesina",
+                "price": 1690,
+                "description": []
+            },
+            {
+                "item": "arroz con pollo en baño de cerveza",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "pescado fresco del día con salteado de albahaca, tomate y ajo",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "eperlan o minutas de pescado con mayonesa",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "cazuela mixta del mar",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "filete de pescado al estilo canciller",
+                "price": 2200,
+                "description": []
+            },
+            {
+                "item": "pulpo estofado en vino tinto y salsa criolla",
+                "price": 2980,
+                "description": []
+            },
+            {
+                "item": "camaron grille",
+                "price": 2190,
+                "description": []
+            },
+            {
+                "item": "camarones cocidos en aceite, ajo y guindillas",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "langosta cocida en aceite, ajo y guindillas",
+                "price": 2450,
+                "description": []
+            },
+            {
+                "item": "langosta al ron en salsa criolla",
+                "price": 2400,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo grille",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "fricase de pollo al estilo campesino",
+                "price": 1690,
+                "description": []
+            },
+            {
+                "item": "suprema de pollo relleno con jamon y queso",
+                "price": 1750,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo fritas con marinado de ajo y oregano",
+                "price": 2490,
+                "description": []
+            },
+            {
+                "item": "patas de cerdo cocidas en salsa criolla",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "cerdo empanado y relleno con jamon y queso",
+                "price": 1890,
+                "description": []
+            },
+            {
+                "item": "escalopes de cerdo empanados",
+                "price": 1390,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de la casa",
+                "price": 1690,
+                "description": []
+            },
+            {
+                "item": "chilindron de carnero",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "estofado de res",
+                "price": 1790,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de queso",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon",
+                "price": 1550,
+                "description": []
+            },
+            {
+                "item": "pizza de camarones",
+                "price": 1990,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1490,
+                "description": []
+            },
+            {
+                "item": "pizza de ropa vieja y platanos maduros fritos",
+                "price": 1890,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pasta de queso",
+                "price": 790,
+                "description": []
+            },
+            {
+                "item": "pasta de jamon",
+                "price": 1150,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helados",
+                "price": 550,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "mojito ajiaco",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "mojito clasico",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cuba libre",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "daiquiri",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "caipirina",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "sangria",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "piña colada",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "copa de vino de la casa",
+                "price": 390,
+                "description": []
+            },
+            {
+                "item": "ginebra",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "energizante",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "jugos naturales",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "limonada natural o frappe",
+                "price": 220,
+                "description": []
+            },
+            {
+                "item": "cafe expresso",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "te",
+                "price": 120,
+                "description": []
+            }
+        ]
+    }
+}

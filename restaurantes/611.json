@@ -1,0 +1,147 @@
+{
+    "ID": 611,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "53718399",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.093373302444814,
+                "lng": -82.35730610072513
+            }
+        }
+    },
+    "name": "Don Dino",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "whatsapp",
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "vianda frita",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "frituras de malanga",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo frito",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo empanado (2u)",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo grille",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo ahumado",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pescado empanado",
+                "price": 1150,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 200.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco importado",
+                "price": 200.0,
+                "description": []
+            }
+        ]
+    }
+}

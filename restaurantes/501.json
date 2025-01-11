@@ -1,0 +1,168 @@
+{
+    "ID": 501,
+    "locality": {
+        "mun": "Cotorro",
+        "locator": {
+            "phones": {
+                "mobile": "54703920",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.04303644487019,
+                "lng": -82.26306815148284
+            }
+        }
+    },
+    "name": "El Bache",
+    "type_cuisine": [
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:30",
+            "closing": "22:30"
+        },
+        "tuesday": {
+            "opening": "10:30",
+            "closing": "22:30"
+        },
+        "wednesday": {
+            "opening": "10:30",
+            "closing": "22:30"
+        },
+        "thursday": {
+            "opening": "10:30",
+            "closing": "22:30"
+        },
+        "friday": {
+            "opening": "10:30",
+            "closing": "22:30"
+        },
+        "saturday": {
+            "opening": null,
+            "closing": null
+        },
+        "sunday": {
+            "opening": null,
+            "closing": null
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "facebook",
+        "instagram"
+    ],
+    "payment_options": [
+        "transfermovil",
+        "efectivo"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "pizza doble queso",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza queso gouda",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pizza jamón",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza chorizo",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza aceituna",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza aceituna",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "pizza atún",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "pizza cebolla",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "pizza hawaiana",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "pizza 4 estaciones",
+                "price": 1450,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasaña",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "lasaña de queso gouda",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "espaguetti con queso gouda",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "espaguetti",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

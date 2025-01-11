@@ -1,0 +1,462 @@
+{
+    "ID": 626,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.104703665510275,
+                "lng": -82.37591156441788
+            }
+        }
+    },
+    "name": "Pasos Habaneros",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "tuesday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "wednesday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "thursday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "friday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "saturday": {
+            "opening": "09:00",
+            "closing": "18:00"
+        },
+        "sunday": {
+            "opening": "09:00",
+            "closing": "13:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "coctel de camaron sencillo",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "coctel de camaron doble",
+                "price": 800,
+                "description": []
+            },
+            {
+                "item": "alitas de pollo (1/2 libra)",
+                "price": 430,
+                "description": []
+            },
+            {
+                "item": "picadera mi habana",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "picadera pasos habaneros",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "alitas de pollo (1 libra)",
+                "price": 860,
+                "description": []
+            },
+            {
+                "item": "super picadera especial",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo pasos habaneros",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pan con hamburguesa",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "pan con hamburguesa y queso",
+                "price": 360,
+                "description": []
+            },
+            {
+                "item": "pan con hamburguesa, jamon y queso",
+                "price": 420,
+                "description": []
+            },
+            {
+                "item": "pan con hamburguesa pasos habaneros",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "pan super hamburguesa",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "sandwich de jamon y queso",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "sandwich pasos habaneros",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "sandwich campesino",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "pan con queso blanco",
+                "price": 135,
+                "description": []
+            },
+            {
+                "item": "pan con croquetas",
+                "price": 180,
+                "description": []
+            },
+            {
+                "item": "pan con croquetas y jamon",
+                "price": 280,
+                "description": []
+            },
+            {
+                "item": "bocadito de jamon",
+                "price": 240,
+                "description": []
+            },
+            {
+                "item": "bocadito de jamon y queso",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "super pan pasos habaneros",
+                "price": 600,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "pollo asado",
+                "price": 275,
+                "description": []
+            },
+            {
+                "item": "pollo asado 1/4",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 750,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo empanado",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "ropa vieja de res",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "lomo de cerdo",
+                "price": 880,
+                "description": []
+            },
+            {
+                "item": "carne de cerdo asado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "masas de cerdo frita",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "bistec uruguayo de cerdo",
+                "price": 1000,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza napolitana",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pizza de doble queso",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de mayonesa",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de jamon y queso",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza de doble queso y jamon",
+                "price": 540,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "lasagna",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "espaghettis napolitano",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "espaghettis de doble queso",
+                "price": 440,
+                "description": []
+            },
+            {
+                "item": "espaghettis de jamon y queso",
+                "price": 475,
+                "description": []
+            },
+            {
+                "item": "espaghettis de doble queso y jamon",
+                "price": 540,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "helado futbolito",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "helado ciudad deportiva",
+                "price": 225.0,
+                "description": []
+            },
+            {
+                "item": "helado jimagua monaco",
+                "price": 290.0,
+                "description": []
+            },
+            {
+                "item": "helado vaca negra o blanca",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "helado sabor a mi",
+                "price": 345.0,
+                "description": []
+            },
+            {
+                "item": "helado capitolio",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "helado esquina de tejas",
+                "price": 450.0,
+                "description": []
+            },
+            {
+                "item": "helado esquina de toyo",
+                "price": 590.0,
+                "description": []
+            },
+            {
+                "item": "helado ensalada parque central",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "helado pasos habaneros",
+                "price": 710.0,
+                "description": []
+            },
+            {
+                "item": "barquillo de helado",
+                "price": 135.0,
+                "description": []
+            },
+            {
+                "item": "pote de helado (200ml) sin montaje",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "pote de helado (200ml) con montaje",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "pote de helado (400ml) sin montaje",
+                "price": 400.0,
+                "description": []
+            },
+            {
+                "item": "pote de helado (400ml) con montaje",
+                "price": 430.0,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "vino dulce (copa)",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "whiskey 5 shot",
+                "price": 100.0,
+                "description": []
+            },
+            {
+                "item": "silver dry (shot)",
+                "price": 110.0,
+                "description": []
+            },
+            {
+                "item": "vino tinto (copa)",
+                "price": 150.0,
+                "description": []
+            },
+            {
+                "item": "chancelier (shot)",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "black tears (shot)",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "havana club (shot)",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "cerveza de lata",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "cerveza dispensada (500ml)",
+                "price": 290.0,
+                "description": []
+            },
+            {
+                "item": "cerveza dispensada (300ml)",
+                "price": 200.0,
+                "description": []
+            },
+            {
+                "item": "termo de cerveza cristal de 6 latas",
+                "price": 1700.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua mineral",
+                "price": 120.0,
+                "description": []
+            },
+            {
+                "item": "refresco de pomo",
+                "price": 235.0,
+                "description": []
+            },
+            {
+                "item": "refresco de lata",
+                "price": 230.0,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 235.0,
+                "description": []
+            },
+            {
+                "item": "energizante",
+                "price": 250.0,
+                "description": []
+            }
+        ]
+    }
+}

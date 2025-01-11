@@ -1,0 +1,146 @@
+{
+    "ID": 410,
+    "locality": {
+        "mun": "Cerro",
+        "locator": {
+            "phones": {
+                "mobile": "50989151",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.12076655269561,
+                "lng": -82.37262902250966
+            }
+        }
+    },
+    "name": "Brutal Habana",
+    "type_cuisine": [
+        "hamburguesas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "instagram"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermóvil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "papas fritas (medias) 100g",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "papas fritas (normal) 200g",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "salchipapas",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "salchipapas brutal",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "croquetas de pollo x 5",
+                "price": 175,
+                "description": []
+            },
+            {
+                "item": "croquetas de pollo x 10",
+                "price": 350,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "brutal junior",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "combo brutal junior",
+                "price": 2550,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            {
+                "item": "batido de helado",
+                "price": 1000.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado con gomitas",
+                "price": 1400.0,
+                "description": []
+            },
+            {
+                "item": "batido de helado brutal",
+                "price": 2000.0,
+                "description": []
+            }
+        ]
+    }
+}

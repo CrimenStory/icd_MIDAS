@@ -1,0 +1,206 @@
+{
+    "ID": 330,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "55100355",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.134994228631488,
+                "lng": -82.363759151347
+            }
+        }
+    },
+    "name": "Tong Do Laug",
+    "type_cuisine": [
+        "asiatica"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "jiaozi ravioles",
+                "price": 1350,
+                "description": []
+            },
+            {
+                "item": "bao",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "mia especial tallarines",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "arroz frito especial",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "siumi",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "chunkun rollitos de primavera",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "sopa china",
+                "price": 990,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 2000,
+                "description": []
+            },
+            {
+                "item": "mariscos",
+                "price": 2500,
+                "description": []
+            },
+            {
+                "item": "mar y tierra",
+                "price": 3850,
+                "description": []
+            },
+            {
+                "item": "camarones",
+                "price": 3600,
+                "description": []
+            },
+            {
+                "item": "pescado",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "fajitas de pechuga",
+                "price": 2200,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "cerveza nacional",
+                "price": 500.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "refresco",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "jugo",
+                "price": 330.0,
+                "description": []
+            },
+            {
+                "item": "frapeado",
+                "price": 330.0,
+                "description": []
+            },
+            {
+                "item": "cocteles",
+                "price": 660.0,
+                "description": []
+            },
+            {
+                "item": "café",
+                "price": 390.0,
+                "description": []
+            },
+            {
+                "item": "té",
+                "price": 170.0,
+                "description": []
+            },
+            {
+                "item": "agua",
+                "price": 220.0,
+                "description": []
+            },
+            {
+                "item": "agua caliente",
+                "price": 220.0,
+                "description": []
+            }
+        ]
+    }
+}

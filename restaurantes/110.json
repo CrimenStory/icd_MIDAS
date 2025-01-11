@@ -1,0 +1,207 @@
+{
+    "ID": 110,
+    "locality": {
+        "mun": "Arroyo Naranjo",
+        "locator": {
+            "phones": {
+                "mobile": "52003758",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.06604708221562,
+                "lng": -82.34035777116422
+            }
+        }
+    },
+    "name": "Casa del Maíz",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "20:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "parqueo",
+        "generador"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "fritura de malte",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "tostón relleno",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "chicharrón",
+                "price": 500,
+                "description": []
+            },
+            {
+                "item": "garbanzos",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "cubito de maíz",
+                "price": 1070,
+                "description": []
+            },
+            {
+                "item": "garbanzos fritos",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fricasé de cerdo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1250,
+                "description": []
+            },
+            {
+                "item": "lomo ahumado",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "costilla ahumada",
+                "price": 1450,
+                "description": []
+            },
+            {
+                "item": "fajitas de cerdo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "fajita de pollo",
+                "price": 1150,
+                "description": []
+            },
+            {
+                "item": "alitas de pollo",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "pollo en cazuela",
+                "price": 1050,
+                "description": []
+            },
+            {
+                "item": "pechuga de pollo",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "filete de pescado",
+                "price": 1480,
+                "description": []
+            },
+            {
+                "item": "espeñan",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "ropa vieja",
+                "price": 1420,
+                "description": []
+            },
+            {
+                "item": "chilindrón de carnero",
+                "price": 1420,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            {
+                "item": "helado pote de 1lt",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "helado pote pequeño",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "arroz con leche",
+                "price": 200,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

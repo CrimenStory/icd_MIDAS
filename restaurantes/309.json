@@ -1,0 +1,578 @@
+{
+    "ID": 309,
+    "locality": {
+        "mun": "Centro Habana",
+        "locator": {
+            "phones": {
+                "mobile": "59705636",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.134370150762123,
+                "lng": -82.3682591198702
+            }
+        }
+    },
+    "name": "La Mimosa",
+    "type_cuisine": [
+        "italiana",
+        "cocteles"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "23:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.4,
+        "qualification_tripadvisor": 4.0,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "instagram",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio",
+        "parqueo",
+        "guarderia"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "croquetas de jamón",
+                "price": 1280,
+                "description": []
+            },
+            {
+                "item": "focaccia al orégano",
+                "price": 994,
+                "description": []
+            },
+            {
+                "item": "brusqueta tradicional",
+                "price": 1337,
+                "description": []
+            },
+            {
+                "item": "galletas caseras con pate de jamón",
+                "price": 1337,
+                "description": []
+            },
+            {
+                "item": "ensalada caprese",
+                "price": 1881,
+                "description": []
+            },
+            {
+                "item": "menestra de verduras",
+                "price": 1881,
+                "description": []
+            },
+            {
+                "item": "coctel de camarones",
+                "price": 2082,
+                "description": []
+            },
+            {
+                "item": "variedad de quesos c/frutos secos",
+                "price": 2164,
+                "description": []
+            },
+            {
+                "item": "entremes de jamón serrano",
+                "price": 3057,
+                "description": []
+            },
+            {
+                "item": "ensalada de frutas secas",
+                "price": 1463,
+                "description": []
+            },
+            {
+                "item": "bastones de queso frito sobre salsa pommodoro",
+                "price": 2168,
+                "description": []
+            },
+            {
+                "item": "antipasto mimosa",
+                "price": 2361,
+                "description": []
+            },
+            {
+                "item": "papas fritas al aroma de ajo",
+                "price": 1096,
+                "description": []
+            },
+            {
+                "item": "ensalada fría italiana",
+                "price": 659,
+                "description": []
+            },
+            {
+                "item": "crema de queso",
+                "price": 1197,
+                "description": []
+            },
+            {
+                "item": "crema virginia",
+                "price": 1197,
+                "description": []
+            },
+            {
+                "item": "crema aurora",
+                "price": 1197,
+                "description": []
+            },
+            {
+                "item": "crema de hongos",
+                "price": 1850,
+                "description": []
+            },
+            {
+                "item": "crema crema de queso azul",
+                "price": 2107,
+                "description": []
+            },
+            {
+                "item": "crema de vegetales",
+                "price": 1136,
+                "description": []
+            },
+            {
+                "item": "crema de camarón",
+                "price": 1785,
+                "description": []
+            },
+            {
+                "item": "crema de mariscos",
+                "price": 2083,
+                "description": []
+            },
+            {
+                "item": "fondue de queso",
+                "price": 2191,
+                "description": []
+            },
+            {
+                "item": "sopa de pollo y apio",
+                "price": 1220,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "ravioli relleno con jamon",
+                "price": 1906,
+                "description": []
+            },
+            {
+                "item": "ravioli relleno c/mouse de camaron",
+                "price": 2084,
+                "description": []
+            },
+            {
+                "item": "ñoquis al queso azul",
+                "price": 2001,
+                "description": []
+            },
+            {
+                "item": "ñoquis al pomodoro y queso parmesano",
+                "price": 2032,
+                "description": []
+            },
+            {
+                "item": "fetuccini alfredo",
+                "price": 1895,
+                "description": []
+            },
+            {
+                "item": "lenguini de mare",
+                "price": 2209,
+                "description": []
+            },
+            {
+                "item": "canelones rellenos con camarones",
+                "price": 2346,
+                "description": []
+            },
+            {
+                "item": "canelones de jamon",
+                "price": 2091,
+                "description": []
+            },
+            {
+                "item": "canelones rellenos mixtos",
+                "price": 2345,
+                "description": []
+            },
+            {
+                "item": "plamontese",
+                "price": 2846,
+                "description": []
+            },
+            {
+                "item": "risotto mar y tierra",
+                "price": 3326,
+                "description": []
+            },
+            {
+                "item": "risotto di mare",
+                "price": 3326,
+                "description": []
+            },
+            {
+                "item": "risotto al trio de carne",
+                "price": 2846,
+                "description": []
+            },
+            {
+                "item": "risotto de vegetales",
+                "price": 2370,
+                "description": []
+            },
+            {
+                "item": "risotto nero di mare",
+                "price": 3326,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti/fusili/macarrones con salsa mar y tierra",
+                "price": 3013,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa al pesto",
+                "price": 1638,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa al pommodoro",
+                "price": 1513,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa a la carbonara",
+                "price": 2171,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa arrabiata",
+                "price": 1477,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa a la marinera",
+                "price": 2987,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa al burro",
+                "price": 1638,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa a la bolognesa",
+                "price": 2128,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa napolitana",
+                "price": 999,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa alfredo",
+                "price": 1836,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa panna",
+                "price": 2091,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa con filete de res a su gusto",
+                "price": 2168,
+                "description": []
+            },
+            {
+                "item": "spaghetti/fusili/macarrones con salsa al aglio",
+                "price": 1425,
+                "description": []
+            },
+            {
+                "item": "lasagna a la bolognesa",
+                "price": 2150,
+                "description": []
+            },
+            {
+                "item": "lasagna rellena con jamon",
+                "price": 2150,
+                "description": []
+            }
+        ],
+        "desserts": [
+            {
+                "item": "flan de caramelo",
+                "price": 540,
+                "description": []
+            },
+            {
+                "item": "ensalada de helado mimosa",
+                "price": 734,
+                "description": []
+            },
+            {
+                "item": "cheese cake",
+                "price": 761,
+                "description": []
+            },
+            {
+                "item": "copa de helado tradicional",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "copa lolita",
+                "price": 709,
+                "description": []
+            },
+            {
+                "item": "torta helada",
+                "price": 667,
+                "description": []
+            },
+            {
+                "item": "suero de helado",
+                "price": 779,
+                "description": []
+            },
+            {
+                "item": "torta bombón",
+                "price": 1083,
+                "description": []
+            }
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza nacional",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "cerveza importada",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "copa de cerveza",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "jarra de cerveza",
+                "price": 626,
+                "description": []
+            },
+            {
+                "item": "habana club añejo blanco",
+                "price": 235,
+                "description": []
+            },
+            {
+                "item": "habana club 3 años",
+                "price": 235,
+                "description": []
+            },
+            {
+                "item": "habana club añejo especial",
+                "price": 256,
+                "description": []
+            },
+            {
+                "item": "habana club reserva",
+                "price": 531,
+                "description": []
+            },
+            {
+                "item": "habana club añejo 7 años",
+                "price": 489,
+                "description": []
+            },
+            {
+                "item": "habana club selección de maestro",
+                "price": 1132,
+                "description": []
+            },
+            {
+                "item": "habana club unio",
+                "price": null,
+                "description": []
+            },
+            {
+                "item": "habana club tributo",
+                "price": null,
+                "description": []
+            },
+            {
+                "item": "aguardiente santero",
+                "price": 245,
+                "description": []
+            },
+            {
+                "item": "ron santiago añejo",
+                "price": 323,
+                "description": []
+            },
+            {
+                "item": "amaretto disaronno",
+                "price": 565,
+                "description": []
+            },
+            {
+                "item": "frangelico",
+                "price": 1018,
+                "description": []
+            },
+            {
+                "item": "baileys",
+                "price": 565,
+                "description": []
+            },
+            {
+                "item": "sambuco",
+                "price": 565,
+                "description": []
+            },
+            {
+                "item": "anis del mono dulce",
+                "price": 519,
+                "description": []
+            },
+            {
+                "item": "pernod",
+                "price": 387,
+                "description": []
+            },
+            {
+                "item": "ricard",
+                "price": 387,
+                "description": []
+            },
+            {
+                "item": "cmapari",
+                "price": 165,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "jugos naturales",
+                "price": 366,
+                "description": []
+            },
+            {
+                "item": "jugos importados",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "limonada frappe",
+                "price": 531,
+                "description": []
+            },
+            {
+                "item": "limonada clarete",
+                "price": 801,
+                "description": []
+            },
+            {
+                "item": "refresco nacional",
+                "price": 270,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 320,
+                "description": []
+            },
+            {
+                "item": "malta",
+                "price": 335,
+                "description": []
+            },
+            {
+                "item": "kermato",
+                "price": 491,
+                "description": []
+            },
+            {
+                "item": "malteada",
+                "price": 693,
+                "description": []
+            },
+            {
+                "item": "red bull",
+                "price": 740,
+                "description": []
+            },
+            {
+                "item": "cola dietética",
+                "price": 398,
+                "description": []
+            },
+            {
+                "item": "agua nacional",
+                "price": 190,
+                "description": []
+            },
+            {
+                "item": "agua importada",
+                "price": 250,
+                "description": []
+            }
+        ]
+    }
+}
