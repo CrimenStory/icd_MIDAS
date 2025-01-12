@@ -1,0 +1,151 @@
+{
+    "ID": 630,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.09369128169051,
+                "lng": -82.36426614417648
+            }
+        }
+    },
+    "name": "Roxinanda",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "Hamburguesa cerdo",
+                "price": 640,
+                "description": []
+            },
+            {
+                "item": "Hamburguesa pollo",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "Hamburguesa res",
+                "price": 690,
+                "description": []
+            },
+            {
+                "item": "Sandwich",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "Sandwich especial",
+                "price": 450,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            null
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "Cristal",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "Hollandia",
+                "price": 300.0,
+                "description": []
+            },
+            {
+                "item": "Stella",
+                "price": 400.0,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "Refresco",
+                "price": 270.0,
+                "description": []
+            },
+            {
+                "item": "Pepsi",
+                "price": 320.0,
+                "description": []
+            },
+            {
+                "item": "Jugo lata",
+                "price": 280.0,
+                "description": []
+            },
+            {
+                "item": "Kermato",
+                "price": 480.0,
+                "description": []
+            }
+        ]
+    }
+}

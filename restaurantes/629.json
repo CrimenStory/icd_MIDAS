@@ -1,0 +1,233 @@
+{
+    "ID": 629,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.09542556536974,
+                "lng": -82.36311624417725
+            }
+        }
+    },
+    "name": "Kafe DVD",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "00:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 3.5,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "alitas de pollo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "tacos",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "croquetas",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "fajitas de pollo",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "tostones al ajillo",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "tostones",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "chicharritas",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "fritura de malanga",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pan con perro",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pan con tortilla",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pan hamburguesa",
+                "price": 400,
+                "description": []
+            },
+            {
+                "item": "pan hamburguesa mariquitas",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "fricase de cerdo",
+                "price": 1300,
+                "description": []
+            },
+            {
+                "item": "masa de cerdo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "chuleta de cerdo",
+                "price": 1500,
+                "description": []
+            },
+            {
+                "item": "bistec de cerdo",
+                "price": 1000,
+                "description": []
+            },
+            {
+                "item": "bistec de pollo",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "higado con su salsa",
+                "price": 770,
+                "description": []
+            },
+            {
+                "item": "higado a la italiana",
+                "price": 730,
+                "description": []
+            },
+            {
+                "item": "higado encebollado",
+                "price": 650,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza grande",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza chiquita",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "pastas napolitana",
+                "price": 700,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 200,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "enrgizante",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "jugo lata",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "refresco pepsi",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "refresco",
+                "price": 220,
+                "description": []
+            }
+        ]
+    }
+}

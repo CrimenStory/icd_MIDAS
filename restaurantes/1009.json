@@ -1,0 +1,170 @@
+{
+    "ID": 1009,
+    "locality": {
+        "mun": "La Lisa",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.070410939396403,
+                "lng": -82.45756089679794
+            }
+        }
+    },
+    "name": "LKG",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "tuesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "wednesday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "thursday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "friday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "saturday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        },
+        "sunday": {
+            "opening": "11:00",
+            "closing": "22:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 2.5,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "bistec",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "fricase",
+                "price": 900,
+                "description": []
+            },
+            {
+                "item": "pollo",
+                "price": 1200,
+                "description": []
+            },
+            {
+                "item": "cangrejo",
+                "price": 550,
+                "description": []
+            },
+            {
+                "item": "arroz frito",
+                "price": 600,
+                "description": []
+            },
+            {
+                "item": "langosta",
+                "price": 1400,
+                "description": []
+            },
+            {
+                "item": "rueda de pescado",
+                "price": 950,
+                "description": []
+            },
+            {
+                "item": "pescado entero",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza de jamon",
+                "price": 300,
+                "description": []
+            },
+            {
+                "item": "pizza de queso",
+                "price": 200,
+                "description": []
+            },
+            {
+                "item": "pizza de doble queso",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "pizza de queso gouda",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua mineral",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 230,
+                "description": []
+            },
+            {
+                "item": "batido de frutas",
+                "price": 235,
+                "description": []
+            }
+        ]
+    }
+}

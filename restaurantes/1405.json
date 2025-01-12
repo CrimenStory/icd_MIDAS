@@ -1,0 +1,132 @@
+{
+    "ID": 1405,
+    "locality": {
+        "mun": "Regla",
+        "locator": {
+            "phones": {
+                "mobile": null,
+                "landline": null
+            },
+            "map": {
+                "lat": 23.125469635245604,
+                "lng": -82.33014753559166
+            }
+        }
+    },
+    "name": "Cafe Atardecer",
+    "type_cuisine": [
+        "criolla"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "tuesday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "wednesday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "thursday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "friday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "saturday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        },
+        "sunday": {
+            "opening": "07:00",
+            "closing": "19:00"
+        }
+    },
+    "quality": {
+        "qualification_google": 5.0,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        null
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        null
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "pollo empanado",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pollo fajitas",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "cerdo escalope",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cerdo fajitas",
+                "price": 480,
+                "description": []
+            },
+            {
+                "item": "cerdo fricesse",
+                "price": 380,
+                "description": []
+            },
+            {
+                "item": "pescado empanado",
+                "price": 330,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            null
+        ],
+        "pasta": [
+            {
+                "item": "spaghetti napolitano",
+                "price": 250,
+                "description": []
+            },
+            {
+                "item": "spaghetti de jamon",
+                "price": 300,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            null
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}

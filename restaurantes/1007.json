@@ -1,0 +1,147 @@
+{
+    "ID": 1007,
+    "locality": {
+        "mun": "La Lisa",
+        "locator": {
+            "phones": {
+                "mobile": "53005060",
+                "landline": "78322553"
+            },
+            "map": {
+                "lat": 23.06752335433779,
+                "lng": -82.46813129014343
+            }
+        }
+    },
+    "name": "La Baliza",
+    "type_cuisine": [
+        "americana",
+        "italiana"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": null,
+            "closing": null
+        },
+        "tuesday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        },
+        "wednesday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        },
+        "thursday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        },
+        "friday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        },
+        "saturday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        },
+        "sunday": {
+            "opening": "10:00",
+            "closing": "21:30"
+        }
+    },
+    "quality": {
+        "qualification_google": 4.7,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": false,
+    "social_networks": [
+        "facebook",
+        "whatsapp"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio",
+        "parqueo"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            {
+                "item": "sandwich de jamon y queso",
+                "price": 500,
+                "description": []
+            }
+        ],
+        "main_courses": [
+            {
+                "item": "hamburguesa",
+                "price": 490,
+                "description": []
+            },
+            {
+                "item": "super hamburguesa",
+                "price": 950,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "pizza con queso gouda (small)",
+                "price": 450,
+                "description": []
+            },
+            {
+                "item": "pizza con queso gouda (large)",
+                "price": 700,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco (small)",
+                "price": 350,
+                "description": []
+            },
+            {
+                "item": "pizza de queso blanco (large)",
+                "price": 520,
+                "description": []
+            }
+        ],
+        "pasta": [
+            null
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "cerveza importada",
+                "price": 250,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            {
+                "item": "agua mineral natural",
+                "price": 150,
+                "description": []
+            },
+            {
+                "item": "refresco importado",
+                "price": 230,
+                "description": []
+            },
+            {
+                "item": "batido de Mamey",
+                "price": 230,
+                "description": []
+            }
+        ]
+    }
+}

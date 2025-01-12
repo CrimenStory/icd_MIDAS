@@ -1,0 +1,133 @@
+{
+    "ID": 628,
+    "locality": {
+        "mun": "Diez de Octubre",
+        "locator": {
+            "phones": {
+                "mobile": "58594576",
+                "landline": null
+            },
+            "map": {
+                "lat": 23.10944659776278,
+                "lng": -82.3658443149827
+            }
+        }
+    },
+    "name": "Diverxo",
+    "type_cuisine": [
+        "criolla",
+        "pizzas",
+        "pastas"
+    ],
+    "schedule": {
+        "monday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "tuesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "wednesday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "thursday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "friday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "saturday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        },
+        "sunday": {
+            "opening": "12:00",
+            "closing": "00:00"
+        }
+    },
+    "quality": {
+        "qualification_google": null,
+        "qualification_tripadvisor": null,
+        "qualification_facebook": null
+    },
+    "reservation_options": true,
+    "social_networks": [
+        "instagram",
+        "facebook"
+    ],
+    "payment_options": [
+        "efectivo",
+        "transfermovil"
+    ],
+    "service_details": [
+        "a domicilio"
+    ],
+    "menu": {
+        "breakfasts": [
+            null
+        ],
+        "starters": [
+            null
+        ],
+        "main_courses": [
+            {
+                "item": "Lechon asado",
+                "price": 1650,
+                "description": []
+            },
+            {
+                "item": "Diveryo",
+                "price": 1950,
+                "description": []
+            }
+        ],
+        "pizzas": [
+            {
+                "item": "Pizza napolitana",
+                "price": 850,
+                "description": []
+            }
+        ],
+        "pasta": [
+            {
+                "item": "Espaguetis napolitana",
+                "price": 850,
+                "description": []
+            },
+            {
+                "item": "Espaguetis jamon",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "Espaguetis chorizo",
+                "price": 1100,
+                "description": []
+            },
+            {
+                "item": "Espaguetis alfredo de jamon",
+                "price": 1150,
+                "description": []
+            }
+        ],
+        "desserts": [
+            null
+        ]
+    },
+    "drinks": {
+        "alcoholic_drinks": [
+            {
+                "item": "termo de cerveza",
+                "price": 2160,
+                "description": []
+            }
+        ],
+        "non-alcoholic": [
+            null
+        ]
+    }
+}
