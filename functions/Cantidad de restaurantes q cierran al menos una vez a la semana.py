@@ -16,8 +16,6 @@ for filename in all_files:
             data = json.load(f)
             if isinstance(data, dict):
                 data = [data]  
-
-            
             for restaurant in data:
                 schedule = restaurant.get('schedule', {})
                 for day, hours in schedule.items():

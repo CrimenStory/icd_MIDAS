@@ -42,26 +42,26 @@ for filename in os.listdir(folder_path):
             except Exception as e:
                 print(f"Error al procesar el archivo {file_path}: {e}")
 
-# Calcular promedios
+# Calcula promedios
 avg_with_reservation = sum(with_reservation) / len(with_reservation) if with_reservation else 0
 avg_without_reservation = sum(without_reservation) / len(without_reservation) if without_reservation else 0
 
-# Crear el gráfico de comparación
+# Gráfico de comparación
 labels = ['Con Reserva', 'Sin Reserva']
 averages = [avg_with_reservation, avg_without_reservation]
 
 plt.figure(figsize=(8, 5))
 plt.bar(labels, averages, color=['blue', 'orange'])
 
-# Añadir etiquetas y título
+
 plt.ylabel('Calificación Promedio')
 plt.title('Comparación de Calificaciones Promedio de Restaurantes')
-plt.ylim(0, 5)  # Suponiendo que las calificaciones están en una escala de 0 a 5
+plt.ylim(0, 5)  
 
-# Mostrar el gráfico
+
 plt.tight_layout()  
 plt.show()
 
-# Imprimir los promedios en la consola
+
 print(f"Calificación promedio de restaurantes con reserva: {avg_with_reservation:.2f}")
 print(f"Calificación promedio de restaurantes sin reserva: {avg_without_reservation:.2f}")

@@ -46,7 +46,7 @@ for filename in os.listdir(folder_path):
                         elif mobile:
                             phone_types.append('Móvil')
                         else:
-                            phone_types.append('Ninguno')  # Si no hay ninguno
+                            phone_types.append('Ninguno')  
 
             except json.JSONDecodeError:
                 print(f"Error al decodificar el archivo JSON: {file_path}")
@@ -56,10 +56,10 @@ for filename in os.listdir(folder_path):
 # Contar la frecuencia de cada tipo de teléfono
 phone_count = Counter(phone_types)
 
-# Crear un gráfico de pastel
+# Gráfico 
 labels = phone_count.keys()
 sizes = phone_count.values()
-colors = ['gold', 'lightcoral', 'lightskyblue', 'lightgreen']  # Colores para el gráfico
+colors = ['gold', 'lightcoral', 'lightskyblue', 'lightgreen']  
 
 plt.figure(figsize=(8, 6))
 plt.pie(sizes, labels=labels, colors=colors, autopct='%1.1f%%', startangle=140)

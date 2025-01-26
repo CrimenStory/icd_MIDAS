@@ -25,7 +25,6 @@ def calcular_calificaciones_por_municipio(data, min_restaurantes=5):
             tripadvisor_calif = registro["quality"].get("qualification_tripadvisor")
             facebook_calif = registro["quality"].get("qualification_facebook")
 
-            # Agregar calificaciones válidas
             if google_calif is not None:
                 calificaciones_por_municipio[municipio].append(google_calif)
             if tripadvisor_calif is not None:
@@ -33,7 +32,6 @@ def calcular_calificaciones_por_municipio(data, min_restaurantes=5):
             if facebook_calif is not None:
                 calificaciones_por_municipio[municipio].append(facebook_calif)
 
-    # Filtrar municipios con suficientes restaurantes y calcular promedios
     promedios_por_municipio = {
         mun: np.mean(calif) 
         for mun, calif in calificaciones_por_municipio.items() 
@@ -43,7 +41,7 @@ def calcular_calificaciones_por_municipio(data, min_restaurantes=5):
     return promedios_por_municipio
 
 def graficar_calificaciones_por_municipio(promedios):
-    # Ordenar municipios por calificación promedio
+
     municipios_ordenados = sorted(promedios.items(), key=lambda x: x[1], reverse=True)
     municipios, calificaciones = zip(*municipios_ordenados)
 
@@ -53,18 +51,16 @@ def graficar_calificaciones_por_municipio(promedios):
     plt.ylabel('Calificación Promedio')
     plt.title('Calificaciones Promedio por Municipio (mínimo de restaurantes)')
     plt.xticks(rotation=45, ha='right')
-    plt.ylim(0, 5)  # Asumiendo que las calificaciones son de 0 a 5
+    plt.ylim(0, 5)  
     plt.tight_layout()
     plt.show()
 
 
 carpeta_json = 'restaurantes'
 
-# Cargar datos
+
 datos = cargar_datos_json(carpeta_json)
 
-# Calcular calificaciones por municipio
 promedios = calcular_calificaciones_por_municipio(datos, min_restaurantes=5)
 
-# Graficar calificaciones por municipio
 graficar_calificaciones_por_municipio(promedios)

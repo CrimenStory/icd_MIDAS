@@ -16,25 +16,25 @@ for filename in all_files:
     try:
         with open(filename, 'r', encoding='utf-8') as f:  
             data = json.load(f)
-            # Asegurarse de que data sea una lista
+            
             if isinstance(data, dict):
-                data = [data]  # Convertir a lista si es un solo restaurante
+                data = [data]  
 
-            # Extraer horas de apertura y cierre
+            
             for restaurant in data:
                 schedule = restaurant.get('schedule', {})
-                opening_hours = set()  # Set para horas únicas
-                closing_hours = set()  # Set para horas únicas
+                opening_hours = set() 
+                closing_hours = set()  
 
                 for day, hours in schedule.items():
                     opening = hours.get('opening')
                     closing = hours.get('closing')
                     if opening:
-                        opening_hours.add(opening)  # Agregar hora de apertura única
+                        opening_hours.add(opening)  
                     if closing:
-                        closing_hours.add(closing)  # Agregar hora de cierre única
+                        closing_hours.add(closing)  
 
-                # Contar las horas únicas por restaurante
+                # Horas únicas por restaurante
                 for hour in opening_hours:
                     if hour in horas_apertura:
                         horas_apertura[hour] += 1
@@ -56,29 +56,29 @@ for filename in all_files:
     except Exception as e:
         print(f"Error procesando el archivo {filename}: {e}")
 
-# Convertir los diccionarios a Series de pandas
+
 apertura_counts = pd.Series(horas_apertura)
 cierre_counts = pd.Series(horas_cierre)
 
-# Mostrar las horas más comunes de apertura
+
 print("Horas más comunes de apertura:")
 print(apertura_counts.sort_values(ascending=False))
 
-# Mostrar las horas más comunes de cierre
+
 print("\nHoras más comunes de cierre:")
 print(cierre_counts.sort_values(ascending=False))
 
-# Graficar las horas más comunes
+# Horas más comunes
 plt.figure(figsize=(12, 6))
 
-# Gráfico de horas de apertura
+# Horas de apertura
 plt.subplot(1, 2, 1)
 apertura_counts.sort_values(ascending=False).head(10).plot(kind='bar', color='skyblue')
 plt.title('Horas más comunes de apertura')
 plt.xlabel('Hora de apertura')
 plt.ylabel('Cantidad de restaurantes')
 
-# Gráfico de horas de cierre
+# Horas de cierre
 plt.subplot(1, 2, 2)
 cierre_counts.sort_values(ascending=False).head(10).plot(kind='bar', color='salmon')
 plt.title('Horas más comunes de cierre')
